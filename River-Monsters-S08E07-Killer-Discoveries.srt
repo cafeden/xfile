@@ -1,0 +1,3321 @@
+﻿1
+00:00:00,000 --> 00:00:07,785
+Phim có những hình ảnh
+có thể không phù hợp với một số khán giả.
+Quí vị cần cân nhắc trước khi xem.
+
+2
+00:00:10,011 --> 00:00:11,243
+<i>Tôi là Jeremy Wade...</i>
+
+3
+00:00:12,780 --> 00:00:14,880
+<i>Nhà sinh học, nhà thám hiểm,</i>
+
+4
+00:00:14,882 --> 00:00:16,415
+<i>và thám tử vùng sông nước</i>
+
+5
+00:00:17,485 --> 00:00:18,884
+Trong ba thập niên,
+
+6
+00:00:18,886 --> 00:00:22,021
+tôi đã di điều tra những cuộc tấn công
+do thủy quái
+
+7
+00:00:22,023 --> 00:00:25,491
+trong một các con sông hung dữ nhất hành tinh...
+
+8
+00:00:25,493 --> 00:00:28,093
+Nó lớn. Rất lớn.
+
+9
+00:00:28,095 --> 00:00:30,195
+<i>...Và những cuộc chiến tranh kiên cường nhất</i>
+
+10
+00:00:30,197 --> 00:00:32,364
+<i>mang tên nghiên cứu khoa học.</i>
+
+11
+00:00:32,366 --> 00:00:33,632
+Aah!
+
+12
+00:00:33,634 --> 00:00:34,633
+Lùi, lùi lùi, lùi lại!
+
+13
+00:00:34,635 --> 00:00:37,036
+Đúng là con cá — Nó đưa vi lưng và đuôi lên kìa.
+
+14
+00:00:37,038 --> 00:00:41,006
+<i>Với việc cả đội dựa vào tôi
+để lấy được mẫu thử,</i>
+
+15
+00:00:41,008 --> 00:00:43,442
+<i>áp lực lên tôi phải thực hiện
+điều cam kết.</i>
+
+16
+00:00:44,612 --> 00:00:46,612
+Không có cuộc chiến đấu nào kéo dài
+như lần này.
+
+17
+00:00:48,249 --> 00:00:51,283
+<i>Và bây giờ, sinh vật mà tôi
+đang cố gắn thẻ</i>
+
+18
+00:00:51,285 --> 00:00:54,653
+<i>đang bộc lộ một cái nhìn mới
+về cuộc sống bí mật</i>
+
+19
+00:00:54,655 --> 00:00:58,290
+<i>ở cuộc đánh bắt bất thường
+trong nghề nghiệp của tôi.</i>
+
+20
+00:00:59,427 --> 00:01:03,128
+Thật tuyệt, hoàn toàn là một con cá
+nhưng không giống cá —
+
+21
+00:01:03,130 --> 00:01:05,431
+Tức là một con quái thú thật sự.
+
+22
+00:01:07,671 --> 00:01:10,672
+<font color=yellow>THỦY QUÁI</font>
+<font color=PaleGreen>VỚI JEREMY WADE
+
+23
+00:01:12,074 --> 00:01:16,675
+<font color=plum>KHÁM PHÁ CÁC SÁT THỦ
+
+24
+00:01:16,677 --> 00:01:19,445
+Bình thường tôi cứ thẳng tiến đến
+cuộc thám hiểm của tôi
+
+25
+00:01:19,447 --> 00:01:23,549
+để bộc lộ điều bí ẩn và làm thỏa
+tính hiếu kỳ.
+
+26
+00:01:23,551 --> 00:01:25,617
+Nhưng khi đi câu cá với các nhà khoa học,
+
+27
+00:01:25,619 --> 00:01:28,654
+tôi thấy mình có nhiều trách nhiệm
+với những điều cam kết.
+
+28
+00:01:28,656 --> 00:01:31,957
+Đặc biệt là dữ liệu từ việc đi câu
+có thể giúp
+
+29
+00:01:31,959 --> 00:01:35,694
+bảo vệ tương lai của các loài —
+
+30
+00:01:35,696 --> 00:01:38,163
+<i>Thí dụ như khi các nhà khoa học yêu cầu</i>
+
+31
+00:01:38,165 --> 00:01:40,299
+<i>tôi câu giúp một con cá mập bò</i>
+
+32
+00:01:40,301 --> 00:01:42,534
+<i>cho cuộc khảo sát của họ
+ở dòng sông Breede</i>
+
+33
+00:01:42,536 --> 00:01:44,670
+<i>thuộc Nam Phi.</i>
+
+34
+00:01:44,672 --> 00:01:48,474
+<i>Một con cá mập dài 3,9m
+được kéo lên bờ vào những năm trước,</i>
+
+35
+00:01:48,476 --> 00:01:50,075
+<i>là con cá lớn nhất tôi từng câu,</i>
+
+36
+00:01:50,077 --> 00:01:53,612
+<i>và họ muốn biết rằng đây là
+kẻ lêu lổng  duy nhất</i>
+
+37
+00:01:53,614 --> 00:01:58,217
+<i>hoặc đó chỉ là một trong những con cá
+gây nguy cơ chết người cho người dân địa phương.</i>
+
+38
+00:01:58,219 --> 00:01:59,651
+<i>Cư dân ở đây rất lo sợ</i>
+
+39
+00:01:59,653 --> 00:02:02,754
+<i>khi con thú săn mồi khét tiếng này
+chỉ bắt để nghiên cứu khoa học</i>
+
+40
+00:02:02,756 --> 00:02:05,157
+<i>rồi thả trở lại dòng nước.</i>
+
+41
+00:02:05,159 --> 00:02:08,293
+Đó là cuộc đua với thời gian để tìm ra
+
+42
+00:02:08,295 --> 00:02:11,563
+liệu cá mập bò có quan tâm đến
+
+43
+00:02:11,565 --> 00:02:13,398
+thịt người hay không.
+
+44
+00:02:14,565 --> 00:02:18,398
+THỬ THÁCH CHO SÁT THỦ
+NAM PHI
+
+45
+00:02:21,675 --> 00:02:25,043
+<i>Nhà khoa học về cá mập Meaghan McCord
+đã khảo sát</i>
+
+46
+00:02:25,045 --> 00:02:27,279
+<i>từ dải sông này đến bở biển lộng gió
+của Nam Phi</i>
+
+47
+00:02:27,281 --> 00:02:29,581
+<i>trong 20 năm qua.</i>
+
+48
+00:02:29,583 --> 00:02:32,818
+<i>Cá mập bò mang đến đây nỗi kinh hãi.</i>
+
+49
+00:02:32,820 --> 00:02:34,453
+<i>Nhưng đó không phải là
+điều Meaghan đã chứng kiến</i>
+
+50
+00:02:34,455 --> 00:02:37,322
+<i>khi cô theo dõi dấu vết
+của con cá mập cái khổng lồ này.</i>
+
+51
+00:02:37,324 --> 00:02:39,057
+McCord: Nó xuôi ngược dòng sông
+
+52
+00:02:39,059 --> 00:02:42,161
+trong phạm vi người dân bơm nước nuôi tôm
+
+53
+00:02:42,163 --> 00:02:46,031
+và trong vùng nước nông
+khi mực nước chỉ đến nửa đùi.
+
+54
+00:02:47,668 --> 00:02:49,668
+Vậy cô theo dõi nó đến bao xa?
+
+55
+00:02:49,670 --> 00:02:52,371
+Chúng tôi theo dõi nó 32km về phía thượng lưu,
+
+56
+00:02:52,373 --> 00:02:54,540
+nghĩ ra thực tuyệt vời,
+
+57
+00:02:54,542 --> 00:02:55,807
+và không cần phải nói,
+
+58
+00:02:55,809 --> 00:02:59,311
+nó có lúc lẩn khuất vào
+chỗ của cư dân vùng Witsand (Nam Phi).
+
+59
+00:03:00,948 --> 00:03:03,515
+<i>Nhiều người dân cảm thấy không vui</i>
+
+60
+00:03:03,517 --> 00:03:06,318
+<i>khi con cá mập bò lớn nhất thế giới
+lại được thả trở lại dòng nước</i>
+
+61
+00:03:06,320 --> 00:03:09,421
+<i>và một lần nữa lại
+tung tăng dưới dòng sông của họ.</i>
+
+62
+00:03:09,423 --> 00:03:10,856
+Cô muốn khám phá gì trong năm nay?
+
+63
+00:03:10,858 --> 00:03:12,691
+Anh Jeremy, trong năm này, điều trước nhất,
+
+64
+00:03:12,693 --> 00:03:14,793
+chúng tôi muốn tìm ra liệu cá mập
+
+65
+00:03:14,795 --> 00:03:16,728
+có rời khỏi hệ thống sông này hay không.
+
+66
+00:03:16,730 --> 00:03:20,232
+Chúng tôi thực sự có tính đến
+việc anh câu cho chúng tôi một con cá mập khác.
+
+67
+00:03:23,871 --> 00:03:26,138
+<i>Đây thực sự là một thử thách to lớn</i>
+
+68
+00:03:26,140 --> 00:03:27,673
+<i>mà tôi từng đối mặt.</i>
+
+69
+00:03:30,744 --> 00:03:33,445
+<i>Và nếu tôi tiếp cận được với
+một trong những con cá mập này,</i>
+
+70
+00:03:33,447 --> 00:03:36,648
+<i>thì đó sẽ là mật trong những
+con cá mập lớn nhất mà tôi từng câu được.</i>
+
+71
+00:03:36,650 --> 00:03:40,052
+<i>Một cái mẹo câu cá xưa cũ —
+gắn một quả banh nhỏ trên dây câu</i>
+
+72
+00:03:40,054 --> 00:03:42,221
+<i>bằng một sợi dây thun</i>
+
+73
+00:03:42,223 --> 00:03:44,223
+<i>Sợi dây câu sẽ trôi tự do.</i>
+
+74
+00:03:44,225 --> 00:03:48,427
+<i>Bằng cách đó cá mập sẽ tiếp cận mồi
+mà không thấy vướng víu.</i>
+
+75
+00:03:48,429 --> 00:03:50,362
+Có thể tôi sẽ kéo miếng mồi đi một chút.
+
+76
+00:03:50,364 --> 00:03:51,897
+nếu có con cá mập nào trông thấy,
+
+77
+00:03:51,899 --> 00:03:53,398
+đôi khi là một sự xao động nhẹ  —
+
+78
+00:03:53,400 --> 00:03:54,733
+nó sẽ chú tâm vào đó.
+
+79
+00:03:54,735 --> 00:03:56,535
+Cá mập sẽ nghĩ, "Mình có muốn thứ đó không?
+Mình không muốn nó chứ gì?"
+
+80
+00:03:56,537 --> 00:03:57,836
+Nó sẽ để thì giờ suy nghĩ về điều đó.
+
+81
+00:03:57,838 --> 00:03:59,571
+Nếu bạn kéo mồi đi, một cách đột ngột,
+nó có thể giống như phản xạ.
+
+82
+00:03:59,573 --> 00:04:00,872
+Chỉ cần —
+bang, dính vào lưỡi câu.
+
+83
+00:04:02,376 --> 00:04:03,609
+Có gì đó đang đến.
+
+84
+00:04:03,611 --> 00:04:04,910
+Yeah, chờ một chút.
+
+85
+00:04:04,912 --> 00:04:08,013
+Một, hai, ba...
+
+86
+00:04:08,015 --> 00:04:11,817
+<i>Tôi phải cho cá mập đủ thì giờ
+để đớp mồi</i>
+
+87
+00:04:11,819 --> 00:04:14,720
+<i>để đến khi tôi kéo dây câu</i>
+
+88
+00:04:14,722 --> 00:04:16,822
+<i>lưỡi câu sẽ móc vào khóe miệng của nó.</i>
+
+89
+00:04:18,859 --> 00:04:21,193
+Nó biết nó đã mắc câu.
+
+90
+00:04:21,195 --> 00:04:22,828
+Có vẻ đó là một con cá lớn.
+
+91
+00:04:22,830 --> 00:04:25,330
+<i>Có thể đây là con thủy quái
+tôi mong đợi.</i>
+
+92
+00:04:28,435 --> 00:04:30,168
+<i>Nhưng tôi gặp phải một vấn đề.</i>
+
+93
+00:04:30,170 --> 00:04:32,938
+Oh, khoan đã. Chuyện gì xảy ra?
+
+94
+00:04:32,940 --> 00:04:33,939
+Đột nhiên dây câu chùn lại.
+
+95
+00:04:33,941 --> 00:04:35,340
+Oh, không, có cái gì đó.
+
+96
+00:04:35,342 --> 00:04:36,441
+Có cái gì đó.
+
+97
+00:04:36,443 --> 00:04:38,610
+Ah! Thực sự nó đang vướn thứ gì.
+
+98
+00:04:44,852 --> 00:04:46,151
+Tôi vẫn còn cảm giác về con cá.
+
+99
+00:04:46,153 --> 00:04:47,286
+Chúng ta lùi lại một chút, Mark.
+
+100
+00:04:50,291 --> 00:04:52,257
+Phải kéo ra khỏi chỗ vướn, dù nó là thứ gì.
+
+101
+00:04:52,259 --> 00:04:53,792
+Không tốt rồi.
+
+102
+00:04:59,333 --> 00:05:01,233
+Tôi nghĩ nó khỏi vướn rồi.
+Khỏi vướn rồi.
+
+103
+00:05:01,235 --> 00:05:04,403
+<i>Nhưng không phải chỉ đầu óc tôi
+bị căng thẳng.</i>
+
+104
+00:05:06,373 --> 00:05:09,007
+Oh, sợi dây câu bị tước rồi.
+
+105
+00:05:16,350 --> 00:05:19,418
+Tôi chỉ nghĩ — Tôi không biết —
+
+106
+00:05:19,420 --> 00:05:21,420
+dây câu chỉ còn chịu lực được 50%.
+
+107
+00:05:23,057 --> 00:05:25,023
+<i>Đường câu giờ đã thông suốt,</i>
+
+108
+00:05:25,025 --> 00:05:28,760
+<i>nhưng nếu tôi kéo lên nhanh quá,</i>
+
+109
+00:05:28,762 --> 00:05:30,162
+<i>tôi sẽ vuột mất nó.</i>
+
+110
+00:05:30,164 --> 00:05:31,430
+Tôi rất căng thẳng,
+
+111
+00:05:31,432 --> 00:05:34,099
+vì bây giờ sợi dây câu không còn tốt nữa.
+
+112
+00:05:34,101 --> 00:05:37,402
+Trong suốt cuộc đời đi câu của tôi,
+không có cuộc chiến đấu nào giống thế này.
+
+113
+00:05:37,404 --> 00:05:39,371
+Và hơn hết là áp lực
+
+114
+00:05:39,373 --> 00:05:42,641
+phải câu cho Meaghan và đội của cô ấy
+một con cá mập cho họ nghiên cứu.
+
+115
+00:05:42,643 --> 00:05:45,744
+Đối với một số người dân địa phương
+những việc chúng tôi làm thật là lạ,
+
+116
+00:05:45,746 --> 00:05:48,580
+xem đua ngựa còn chưa hứng thú bằng.
+
+117
+00:05:50,784 --> 00:05:53,385
+Một người bạn từng câu cá mập bò
+nói với tôi,
+
+118
+00:05:53,387 --> 00:05:55,620
+"Cá mập bò không giống cá mập mako vây ngắn,
+
+119
+00:05:55,622 --> 00:05:57,122
+nó thực sự là anh hùng xa lộ."
+
+120
+00:05:57,124 --> 00:05:58,990
+Cá mập bò rất rắn chắc và khỏe mạnh.
+
+121
+00:05:58,992 --> 00:06:00,692
+Nó kéo bạn phải đi theo nó.
+
+122
+00:06:00,694 --> 00:06:04,029
+Tôi có cảm giác như mình là đứa bé 6 tuổi
+đang dắt một con chó rottweiler đi dạo.
+<font color=lightblue>Chó Rottweiler: Rottweiler hay còn gọi là rốt, rotti
+là một giống chó có nguồn gốc ở Đức được dùng như loại chó chăn gia súc
+nhưng thường được huấn luyện để trở thành chó nghiệp vụ. Chúng còn là
+những con chó chiến đấu và có khả năng chịu đựng được các vết thương. Wikipedia.
+
+123
+00:06:09,470 --> 00:06:11,603
+Thật là sống động, bất ngờ.
+
+124
+00:06:11,605 --> 00:06:13,271
+ngay dưới cây cần câu.
+
+125
+00:06:13,273 --> 00:06:15,741
+Nếu chúng ta xoay được sang trái.
+Được rồi. OK.
+
+126
+00:06:22,716 --> 00:06:25,350
+Mọi người nói câu cá
+sẽ không nhận cú đau nào —
+
+127
+00:06:25,352 --> 00:06:26,785
+thật sai lầm.
+
+128
+00:06:26,787 --> 00:06:28,220
+Chứng đau lưng giết chết tôi.
+
+129
+00:06:29,623 --> 00:06:32,457
+<i>Vậy là gần 5km, kể từ nơi con cá mập cắn câu</i>
+
+130
+00:06:32,459 --> 00:06:35,293
+<i>và nó vẫn kéo chiếc thuyền đi.</i>
+
+131
+00:06:35,295 --> 00:06:38,363
+<i>Khi đã gần 2 giờ trôi qua,</i>
+
+132
+00:06:38,365 --> 00:06:41,500
+<i>con cá mập vẫn liên tục
+kéo chiếc thuyền đi ngược thượng lưu.</i>
+
+133
+00:06:41,502 --> 00:06:44,069
+Trên một dòng sông,
+điều này không bình thường chút nào.
+
+134
+00:06:46,206 --> 00:06:50,809
+<i>Cuộc chiến đấu giờ đã sang giờ thứ ba.</i>
+
+135
+00:06:50,811 --> 00:06:54,413
+<i>Con cá mập đã kéo tôi và chiếc thuyền
+đi hơn 6,5km.</i>
+
+136
+00:06:57,217 --> 00:06:59,050
+Có thể nó đang trồi lên.
+Có thể nó đang trồi lên.
+
+137
+00:06:59,052 --> 00:07:00,619
+Hướng về mặt nước.
+
+138
+00:07:00,621 --> 00:07:02,521
+Cái đuôi của nó.
+
+139
+00:07:02,523 --> 00:07:04,523
+Con cá kìa — cái vi lưng và chiếc đuôi.
+
+140
+00:07:04,525 --> 00:07:06,391
+Vi lưng và chiếc đuôi.
+
+141
+00:07:06,393 --> 00:07:08,160
+Lần đầu tiên nó phá tan mặt nước.
+
+142
+00:07:08,162 --> 00:07:09,828
+Nó lại biểu diễn một lần nữa.
+
+143
+00:07:10,831 --> 00:07:12,831
+Chiếc vi lưng.
+
+144
+00:07:14,635 --> 00:07:15,867
+Ah!
+
+145
+00:07:15,869 --> 00:07:17,269
+Khoan. Nó chun dưới thuyền.
+Chun dưới thuyền.
+
+146
+00:07:17,271 --> 00:07:19,905
+Lui, lui, lui, lui, lui.
+
+147
+00:07:19,907 --> 00:07:21,606
+Cuối cùng — Cũng được nó.
+
+148
+00:07:23,510 --> 00:07:25,677
+Đúng rồi.
+Bây giờ, tập trung cao độ.
+
+149
+00:07:29,583 --> 00:07:30,882
+OK.
+
+150
+00:07:30,884 --> 00:07:32,717
+<i>Meaghan đang ở đó, thủ sẵn cây lao móc</i>
+
+151
+00:07:32,719 --> 00:07:34,753
+<i>khi cần sẽ nhấc chiếc đầu nó lên</i>
+
+152
+00:07:34,755 --> 00:07:37,956
+<i>căn bản là xuyên qua lớp da dầy
+của con cá mập.</i>
+
+153
+00:07:41,628 --> 00:07:43,462
+Quỉ quái thật!
+
+154
+00:07:45,833 --> 00:07:48,200
+Không xuyên cây lao được à?
+Nó muốn làm gãy cây lao.
+
+155
+00:07:48,202 --> 00:07:49,601
+Nó muốn làm gãy cây lao.
+
+156
+00:08:01,741 --> 00:08:04,242
+<i>Trên dòng sông Breede, Nam Phi,</i>
+
+157
+00:08:04,244 --> 00:08:07,912
+<i>Tôi đã đấu vật với
+một con cá mập bò trong ba giờ.</i>
+
+158
+00:08:07,914 --> 00:08:10,982
+Tôi giúp các nhà khoa học chứng minh
+cá mập bò ở đây
+
+159
+00:08:10,984 --> 00:08:13,484
+<i>không giết người hằng loạt</i>
+
+160
+00:08:13,486 --> 00:08:16,788
+<i>Họ thường có định kiến như vậy.</i>
+
+161
+00:08:16,790 --> 00:08:18,289
+Tôi nghĩ nên trở vào bờ.
+
+162
+00:08:18,291 --> 00:08:21,325
+McCord: Chúng ta cần trở vào bờ.
+
+163
+00:08:21,327 --> 00:08:25,496
+Chưa từng có cuộc chiến đấu nào
+kéo dài như vậy.
+
+164
+00:08:25,498 --> 00:08:27,098
+Wow.
+
+165
+00:08:28,401 --> 00:08:29,700
+Kéo.
+
+166
+00:08:29,702 --> 00:08:32,537
+Gỡ cây lao móc ra.
+Được rồi.
+
+167
+00:08:32,539 --> 00:08:35,940
+<i>Chúng ta sẽ giữ cho nó sống
+đội các nhà khoa học sẽ nhanh chóng lấy mẫu,</i>
+
+168
+00:08:35,942 --> 00:08:38,276
+<i>Đo kích cỡ của nó,
+gắn thẻ phát âm thanh vào,</i>
+
+169
+00:08:38,278 --> 00:08:40,478
+<i>rồi đưa nó trở lại dòng sông.</i>
+
+170
+00:08:40,480 --> 00:08:42,547
+Whoa! Whoa, whoa.
+
+171
+00:08:42,549 --> 00:08:44,715
+Cá mập có thể bơm nước qua mang của chúng,
+
+172
+00:08:44,717 --> 00:08:48,019
+nên tôi chèn cái miệng bằng một khúc cây
+
+173
+00:08:48,021 --> 00:08:51,088
+và tạt nước qua miệng nó.
+
+174
+00:08:52,492 --> 00:08:54,659
+<i>Đó là một con cá mập bò đực —</i>
+
+175
+00:08:54,661 --> 00:08:58,396
+<i>dài 2,9m và nặng hơn 230kg —</i>
+
+176
+00:08:58,398 --> 00:09:01,966
+<i>một trong những con cá mập bò lớn nhất
+được bắt lên bờ.</i>
+
+177
+00:09:04,304 --> 00:09:07,038
+Thẻ đã được mắc vào rồi, mẫu thử cũng đã lấy —
+Các thao tác thật nhanh.
+
+178
+00:09:07,040 --> 00:09:09,540
+Nhưng con cá mập bò này thật mạnh
+trong một thời gian đủ lâu
+
+179
+00:09:09,542 --> 00:09:12,877
+tôi cảm thấy như vậy,
+
+180
+00:09:12,879 --> 00:09:15,880
+nên chúng tôi cần — Cần nó tỉnh lại.
+
+181
+00:09:15,882 --> 00:09:18,416
+<i>Cá mập gây ra nỗi sợ
+không giống những thứ khác,</i>
+
+182
+00:09:18,418 --> 00:09:20,685
+<i>và dù nó thực sự đã kiệt sức</i>
+
+183
+00:09:20,687 --> 00:09:23,321
+<i>sau khi chiến đấu với tôi gần 4 giờ,</i>
+
+184
+00:09:23,323 --> 00:09:27,258
+<i>con cá mập bò này cũng đủ gây
+rùng mình trên mặt đất.</i>
+
+185
+00:09:39,038 --> 00:09:41,239
+Đây là loại thẻ mà chúng tôi dùng,
+
+186
+00:09:41,241 --> 00:09:44,342
+để gắn vào bên dưới lớp da cá mập.
+
+187
+00:09:44,344 --> 00:09:46,043
+Nó được gọi là loại thẻ phát âm thanh.
+
+188
+00:09:46,045 --> 00:09:48,880
+Nó phát ra một loạt các âm thanh sắc nhọn,
+
+189
+00:09:48,882 --> 00:09:51,682
+không nằm trong ngưỡng nghe của tai người.
+
+190
+00:09:51,684 --> 00:09:54,752
+Nhưng khi bạn đưa ống nghe xuống nước,
+
+191
+00:09:54,754 --> 00:09:57,188
+nối với một máy thu,
+
+192
+00:09:57,190 --> 00:10:01,993
+nó sẽ nhận ra con cá.
+
+193
+00:10:01,995 --> 00:10:06,764
+Đó là số hiệu nó mang còn đây là âm thanh.
+
+194
+00:10:09,335 --> 00:10:12,770
+Dựa trên âm thanh và hướng của sóng âm,
+
+195
+00:10:12,772 --> 00:10:16,674
+sẽ cho phép bạn suy đoán ra vị trí con cá
+
+196
+00:10:16,676 --> 00:10:19,010
+Tóm lại, thiết bị này cho phép bạn
+
+197
+00:10:19,012 --> 00:10:22,046
+biết được những gì dưới mặt nước.
+
+198
+00:10:22,048 --> 00:10:24,549
+Pin trong tấm thẻ có thể kéo dài cả năm.
+
+199
+00:10:24,551 --> 00:10:27,718
+Và tín hiệu có thể phát hiện cách đó gần 1km.
+
+200
+00:10:27,720 --> 00:10:29,987
+Tấm thẻ được gắn vào bằng
+một máy bơm chuyên dụng
+
+201
+00:10:29,989 --> 00:10:31,122
+thẳng vào nhóm cơ lưng
+
+202
+00:10:31,124 --> 00:10:33,190
+và giữ ở vị trí đó trong vài tháng,
+
+203
+00:10:33,192 --> 00:10:35,860
+cho đến khi cơ thể cá mập thảy loại nó
+
+204
+00:10:35,862 --> 00:10:37,295
+và đẩy nó ra.
+
+205
+00:10:37,297 --> 00:10:40,031
+Tuy nhiên, có thể có một số thẻ
+trong cơ thể một số loài cá mập
+
+206
+00:10:40,033 --> 00:10:41,365
+hơn một năm.
+
+207
+00:10:41,367 --> 00:10:44,201
+Cuộc khảo sát hé lộ rằng dòng sông Breede
+
+208
+00:10:44,203 --> 00:10:46,671
+là môi trường sống quyết định cho cá mập bò.
+
+209
+00:10:46,673 --> 00:10:49,607
+Các nhà khoa học cũng nghi nhận rằng
+cá mập có gắn thẻ
+
+210
+00:10:49,609 --> 00:10:51,576
+vẫn lội trong vùng nước cách mọi người vài mét.
+
+211
+00:10:51,578 --> 00:10:53,911
+rồi chúng lội ra.
+
+212
+00:10:53,913 --> 00:10:56,080
+Dù sao chúng phải được xử lý cẩn thận,
+
+213
+00:10:56,082 --> 00:10:58,015
+việc gắn thẻ cho thấy
+trong dòng sông này cho thấy,
+
+214
+00:10:58,017 --> 00:11:00,985
+cá mập ít gây nguy cơ cho con người.
+
+215
+00:11:00,987 --> 00:11:03,754
+Từ kết quả của cuộc khảo sát này,
+từ rày trở đi
+
+216
+00:11:03,756 --> 00:11:06,791
+việc bắt cá mập bò trên dòng sông Breede
+xem như phạm pháp.
+
+217
+00:11:06,793 --> 00:11:07,992
+Nếu ai vi phạm,
+
+218
+00:11:07,994 --> 00:11:10,194
+có thể bị ở tù đến 3 năm.
+
+219
+00:11:10,196 --> 00:11:12,797
+Rõ ràng, đây là nơi bảo tồn duy nhất
+
+220
+00:11:12,799 --> 00:11:15,600
+cho cá mập bò trên toàn Châu Phi.
+
+221
+00:11:15,602 --> 00:11:19,604
+Nên cách thức là biến đổi
+tiếng tăm hung dữ của loài cá mập này,
+
+222
+00:11:19,606 --> 00:11:24,308
+chống lại những định kiến
+và hỗ trợ chúng sống còn.
+
+223
+00:11:24,310 --> 00:11:26,444
+Nhưng công nghệ chỉ là một mắt xích
+
+224
+00:11:26,446 --> 00:11:27,945
+trong chuỗi khảo sát.
+
+225
+00:11:27,947 --> 00:11:30,014
+Trước khi bất kỳ dữ liệu nào được thu thập,
+
+226
+00:11:30,016 --> 00:11:32,149
+loài cá này cần được bắt lại.
+
+227
+00:11:32,151 --> 00:11:34,685
+Và đó là phần thách thức nhất
+
+228
+00:11:34,687 --> 00:11:36,520
+trong các thao tác.
+
+229
+00:11:36,522 --> 00:11:39,190
+<i>Khi tôi đi khảo sát ở Na Uy,
+nơi có những loài cá mập khác</i>
+
+230
+00:11:39,192 --> 00:11:40,591
+<i>khá khó bắt</i>
+
+231
+00:11:40,593 --> 00:11:44,128
+<i>và khó hiểu hơn cá mập bò ở Nam Phi.</i>
+
+232
+00:11:46,593 --> 00:11:49,128
+QUÁI VẬT VÙNG NƯỚC SÂU
+NA UY
+
+233
+00:11:51,137 --> 00:11:53,170
+<i>Tôi đang ở Trondheimsfjord
+<font color=lightblue>Trondheims Fjord: vịnh lớn thứ ba của Na Uy.</i>
+
+234
+00:11:53,172 --> 00:11:57,341
+<i>đang theo đuổi loài cá mập khó tìm thấy
+ở đảo Greenland.
+<font color=lightblue>Greenland: đảo của Đan Mạch ở Bắc Đại Tây Dương,
+ngoài khơi đông bắc Canada, diện tích 2.166.086 cây số vuông, dân số hơn 56.000 người, thủ phủ là Nuuk.</i>
+
+235
+00:11:57,343 --> 00:11:59,644
+<i>Tôi gặp một ngư dân,
+Frederic Kullin,</i>
+
+236
+00:11:59,646 --> 00:12:00,811
+<i>đang làm việc với các nhà khoa học</i>
+
+237
+00:12:00,813 --> 00:12:03,681
+<i>đến từ đại học Copenhagen.</i>
+
+238
+00:12:03,683 --> 00:12:06,550
+<i>và anh ấy là một trong số ít người
+giúp đỡ tôi</i>
+
+239
+00:12:06,552 --> 00:12:08,886
+<i>câu loài cá mập Greenland
+bắng cây cần câu hiện đại.</i>
+
+240
+00:12:08,888 --> 00:12:11,555
+Chúng không có chiếc vi lưng khổng lồ này —
+
+241
+00:12:11,557 --> 00:12:19,330
+chỉ có chiếc vi lưng nhỏ, và chúng màu xám
+hoặc hầu như đen.
+
+242
+00:12:19,332 --> 00:12:21,899
+<i>Tôi chưa bao giờ thấy con vật này
+bằng xương bằng thịt.</i>
+
+243
+00:12:21,901 --> 00:12:25,102
+<i>Và nó hầu như chưa từng biết
+bởi khoa học hiện đại.</i>
+
+244
+00:12:25,104 --> 00:12:29,740
+<i>Nó được quay phim lần đầu tiên trong hoang dã
+cách đây 12 năm.</i>
+
+245
+00:12:29,742 --> 00:12:33,110
+<i>Cá mập Greenland sống về phía cực bắc
+hơn bất kỳ loài cá mập nào.</i>
+
+246
+00:12:33,112 --> 00:12:36,714
+<i>Tên La tinh của chúng có nghĩa là
+"Đầu nhỏ ngáy ngủ"</i>
+
+247
+00:12:36,716 --> 00:12:39,316
+<i>Chúng được nghĩ là loài ăn xác
+di chuyển chậm</i>
+
+248
+00:12:39,318 --> 00:12:42,420
+<i>chỉ ăn xác của những động vật chết.</i>
+
+249
+00:12:42,422 --> 00:12:47,591
+<i>Nhưng trên thực tế chúng ta
+rất ít biết về chúng.</i>
+
+250
+00:12:47,593 --> 00:12:50,027
+<i>Frederic phối hợp chặt chẽ
+với các nhà khoa học</i>
+
+251
+00:12:50,029 --> 00:12:52,430
+<i>đang khảo sát về cá mập Greenland.</i>
+
+252
+00:12:52,432 --> 00:12:55,199
+<i>Và anh ấy hy vọng tôi có thể giúp
+bắt chúng để lấy mẫu thử.</i>
+
+253
+00:12:57,003 --> 00:13:01,038
+<i>Dài 130km và sâu hơn 600m,</i>
+
+254
+00:13:01,040 --> 00:13:06,210
+<i>Trondheimsfjord là vịnh lớn thứ ba
+của Na Uy.</i>
+
+255
+00:13:06,212 --> 00:13:08,412
+<i>Đây sẽ là lần đầu tiên tôi đi câu cá</i>
+
+256
+00:13:08,414 --> 00:13:10,081
+<i>ở một độ sâu đáng kinh ngạc như thế.</i>
+
+257
+00:13:10,083 --> 00:13:14,485
+<i>Và tôi không phải mất nhiều thời gian
+để học những phương thức mới.</i>
+
+258
+00:13:17,290 --> 00:13:19,924
+<i>Làm việc ở độ sâu này
+liên quan đến việc triển khai chính xác</i>
+
+259
+00:13:19,926 --> 00:13:22,293
+<i>các tác phong chuyên nghiệp.</i>
+
+260
+00:13:23,763 --> 00:13:26,263
+Kullin: Chúng ta sẽ thao tác
+
+261
+00:13:26,265 --> 00:13:28,699
+từ 800 đến 1,000m kể từ chỗ neo đậu này.
+
+262
+00:13:28,701 --> 00:13:31,202
+Đúng rồi. Vậy tốt nhất là nửa dặm
+kể từ dây neo.
+
+263
+00:13:31,204 --> 00:13:32,703
+Phải.
+
+264
+00:13:32,705 --> 00:13:34,505
+<i>Thao tác với sợ dây này,</i>
+
+265
+00:13:34,507 --> 00:13:37,641
+<i>và bạn chỉ đi theo một chiều
+đến đáy biển.</i>
+
+266
+00:13:40,113 --> 00:13:43,080
+<i>Tôi sẽ có nhiều đường câu trong vùng nước
+hơn bất kỳ thứ gì trước đây,</i>
+
+267
+00:13:43,082 --> 00:13:45,683
+<i>nên sẽ dùng dây câu nylon dầy chắc.</i>
+
+268
+00:13:45,685 --> 00:13:48,185
+<i>Nó dễ kéo trong dòng nước chảy,</i>
+
+269
+00:13:48,187 --> 00:13:50,154
+<i>và guồng quấn dây cũng phải to hơn.</i>
+
+270
+00:13:50,156 --> 00:13:52,857
+<i>Thay vào đó tôi sẽ dùng dây tết.</i>
+
+271
+00:13:52,859 --> 00:13:55,259
+<i>Nó rất mịn và chắc.</i>
+
+272
+00:13:58,064 --> 00:14:00,231
+<i>Mồi của tôi là cá than.</i>
+
+273
+00:14:00,233 --> 00:14:01,398
+<i>Nó dễ bắt,</i>
+
+274
+00:14:01,400 --> 00:14:03,601
+<i>và cá mập Greenland
+cũng không kén chọn gì.</i>
+
+275
+00:14:10,710 --> 00:14:13,144
+<i>Thấm thoát đã mấy ngày,</i>
+
+276
+00:14:13,146 --> 00:14:16,080
+<i>tôi bắt đầu mất tự tin trước tiếng rít</i>
+
+277
+00:14:16,082 --> 00:14:17,314
+<i>của các đường câu.</i>
+
+278
+00:14:23,322 --> 00:14:25,923
+<i>Sau khi giương cần 400 giờ</i>
+
+279
+00:14:25,925 --> 00:14:28,659
+<i>và cuộn 80.000m dây câu,</i>
+
+280
+00:14:28,661 --> 00:14:30,761
+<i>cơ may của tôi không còn nữa chăng?</i>
+
+281
+00:14:31,661 --> 00:14:33,261
+Đó là cái gật đầu ưng thuận sao?
+
+282
+00:14:33,261 --> 00:14:35,161
+Phải, phải.
+
+283
+00:14:39,639 --> 00:14:41,338
+Anh thấy guồng câu còn nặng không?
+
+284
+00:14:41,340 --> 00:14:43,974
+Yes.
+Yes. Anh hay lắm.
+
+285
+00:14:43,976 --> 00:14:48,145
+Đây phải chì đâu mà nặng vậy,
+Nó là — Nó là con cá mà.
+
+286
+00:14:48,147 --> 00:14:52,650
+<i>Liệu có thực sự là
+con cá mập Greenland không?</i>
+
+287
+00:14:52,652 --> 00:14:54,819
+<i>Tôi chưa từng kéo thứ gì nặng</i>
+
+288
+00:14:54,821 --> 00:14:57,254
+<i>từ biển sâu như thế này.</i>
+
+289
+00:14:57,256 --> 00:14:58,455
+Tôi nghĩ nó cũng gần đến thuyền rồi.
+
+290
+00:14:58,457 --> 00:15:00,391
+Có lẽ nó đã nhận ra chiếc thuyền.
+
+291
+00:15:03,296 --> 00:15:05,596
+<i>Sau gần 30 phút kéo câu,</i>
+
+292
+00:15:05,598 --> 00:15:08,732
+<i>lưng và cánh tay tôi như bị chuột rút.</i>
+
+293
+00:15:08,734 --> 00:15:10,768
+<i>nhưng tôi đâu thể dừng lại.</i>
+
+294
+00:15:10,770 --> 00:15:15,739
+<i>Tôi khá cực nhọc để nhả nó ra vào
+những giây cuối.</i>
+
+295
+00:15:15,741 --> 00:15:18,943
+Nó kia rồi.
+
+296
+00:15:18,945 --> 00:15:22,146
+<i>Đó là một con cá mập Greenland.</i>
+
+297
+00:15:22,148 --> 00:15:24,648
+<i>Nó quá lớn để có thể kéo lên thuyền.</i>
+
+298
+00:15:24,650 --> 00:15:26,250
+<i>Nếu rán kéo có thể làm nó bị thương.</i>
+
+299
+00:15:26,252 --> 00:15:28,452
+<i>Nên chúng tôi kéo dọc nó
+theo mạn thuyền.</i>
+
+300
+00:15:28,454 --> 00:15:31,322
+Đó là con quái vật tôi tìm thấy cách xa bờ
+
+301
+00:15:31,324 --> 00:15:32,890
+và mang nó lên từ độ sâu như thế,
+
+302
+00:15:32,892 --> 00:15:34,391
+nhưng chúng tôi sẽ cố gắng buộc đuôi nó lại.
+
+303
+00:15:34,393 --> 00:15:37,661
+Theo chuẩn của những sinh vật trên đết liền,
+
+304
+00:15:37,663 --> 00:15:39,864
+thì đây là — Đây là một con khổng lồ.
+Thật là một quái vật.
+
+305
+00:15:39,866 --> 00:15:43,968
+<i>Cá mập Greenland có thể lớn đến 900kg,</i>
+
+306
+00:15:43,970 --> 00:15:47,104
+<i>nhưng hơn hết, chúng vẫn còn là bí ẩn
+đối với khoa học.</i>
+
+307
+00:15:47,106 --> 00:15:52,743
+<i>Chúng ta hầu như không biết
+chúng sống ra sao, sinh đẻ săn mồi thế nào.</i>
+
+308
+00:15:52,745 --> 00:15:55,880
+<i>Frederic đeo thẻ cho cá mập
+vì chưa chắc nó lên mặt nước lần nữa.</i>
+
+309
+00:15:58,417 --> 00:15:59,750
+Nó lội đi rồi.
+
+310
+00:15:59,752 --> 00:16:01,552
+Việc nó lên đây như một giấc mơ.
+
+311
+00:16:01,554 --> 00:16:04,054
+Nhiều người sống quanh đây
+không có khái niệm gì
+
+312
+00:16:04,056 --> 00:16:08,292
+về những sinh vật như thế
+ở ngay trước mũi họ.
+
+313
+00:16:10,763 --> 00:16:13,397
+Rất khó bắt được cá mập Greenland
+
+314
+00:16:13,399 --> 00:16:16,667
+nên thu thập dữ liệu về chúng thật khổ sở.
+
+315
+00:16:16,669 --> 00:16:19,203
+Tuy nhiên, các nhà khoa học
+mới đây đã làm
+
+316
+00:16:19,205 --> 00:16:21,138
+một cuộc khám phá đáng kể về chúng.
+
+317
+00:16:22,308 --> 00:16:25,276
+Đây là xác của những con hải cẩu
+còn nguyên vẹn
+
+318
+00:16:25,278 --> 00:16:28,245
+mà chúng tôi đã tìm thấy
+trong dạ dày của cá mập Greenland.
+
+319
+00:16:28,247 --> 00:16:30,648
+Và mọi thứ chỉ ra có lẽ
+
+320
+00:16:30,650 --> 00:16:34,385
+chúng sống còn nhờ nuốt chửng con mồi.
+
+321
+00:16:34,387 --> 00:16:35,719
+Và đây là cá voi trắng
+
+322
+00:16:35,721 --> 00:16:37,788
+với một vết cắn lớn bên sườn.
+
+323
+00:16:37,790 --> 00:16:41,558
+Các nhà khoa học tin rằng có nhiều khả năng
+là do cá mập Greenland.
+
+324
+00:16:41,560 --> 00:16:44,328
+Các chứng cớ thế này chứng tỏ
+cá mập Greenland
+
+325
+00:16:44,330 --> 00:16:47,298
+không ăn xác chết,
+trước tiên các nhà khoa học nghĩ như thế.
+
+326
+00:16:47,300 --> 00:16:51,535
+Chúng cũng có thể là kẻ ăn mồi chủ động.
+
+327
+00:16:51,537 --> 00:16:52,836
+<i>Khi chúng ta có nhiều kiến thức hơn</i>
+
+328
+00:16:52,838 --> 00:16:54,705
+<i>về các sinh vật hiếm hoi, huyền bí này,</i>
+
+329
+00:16:54,707 --> 00:16:59,777
+<i>những điều mê tín bị phá vỡ
+và sự huyền bí sẽ lộ chân tướng.</i>
+
+330
+00:16:59,779 --> 00:17:02,546
+<i>Khi tôi đến Nhật Bản,</i>
+
+331
+00:17:02,548 --> 00:17:03,614
+<i>cuộc điều tra trở nên khá khác biệt</i>
+
+332
+00:17:03,616 --> 00:17:05,883
+<i>so với cá mập Greenland.</i>
+
+333
+00:17:05,885 --> 00:17:07,985
+<i>Đây là một con quá vật huyền bí
+có bốn chân</i>
+
+334
+00:17:07,987 --> 00:17:09,653
+<i>có tên gọi là Kappa,
+(Kỳ nhông Nhật Bản)</i>
+
+335
+00:17:09,655 --> 00:17:13,223
+<i>có khả năng vồ lấy trẻ con.</i>
+
+336
+00:17:13,225 --> 00:17:15,025
+Điều tôi không trông đợi lại tìm thấy được
+
+337
+00:17:15,027 --> 00:17:17,328
+một sinh vật thật phía sau huyền thoại
+
+338
+00:17:17,330 --> 00:17:19,863
+có thể mang lợi ích đến cho con người
+
+339
+00:17:19,865 --> 00:17:23,567
+mà thoạt nghe như chuyện
+khoa học viễn tưởng.
+
+340
+00:17:23,667 --> 00:17:26,567
+KẺ GÂY KINH HOÀNG THỜI CỔ ĐẠI
+NHẬT BẢN
+
+341
+00:17:32,511 --> 00:17:33,978
+<i>Kỳ nhông đã bị cáo buộc</i>
+
+342
+00:17:33,980 --> 00:17:36,613
+<i>về những tội lỗi ghê gớm
+hằng bao thế kỷ nay.</i>
+
+343
+00:17:36,615 --> 00:17:38,549
+<i>Đủ mạnh để giết chết gia súc,</i>
+
+344
+00:17:38,551 --> 00:17:41,552
+<i>nạn nhân ưa thích của chúng là trẻ con.</i>
+
+345
+00:17:41,554 --> 00:17:43,754
+<i>Những mô tả về kỳ nhông
+thay đổi khác nhau,</i>
+
+346
+00:17:43,756 --> 00:17:48,058
+<i>nhưng hình ảnh thường thấy nhất là
+miệng rộng, mình dài,</i>
+
+347
+00:17:48,060 --> 00:17:51,495
+<i>da lốm đốm hiện ra trong tối
+với các mảng màu nâu hay xanh.</i>
+
+348
+00:17:51,497 --> 00:17:55,799
+<i>và nó luôn luôn ở dưới nước...</i>
+
+349
+00:17:59,572 --> 00:18:02,473
+<i>Tôi hướng về một vùng đồi xa
+ở phía nam Nhật Bản</i>
+
+350
+00:18:02,475 --> 00:18:06,143
+<i>để gặp một nhà khoa học
+ông Takeyoshi Tochimoto.</i>
+
+351
+00:18:06,145 --> 00:18:08,345
+<i>Ý nghĩ về một loài ăn thịt uống máu</i>
+
+352
+00:18:08,347 --> 00:18:12,049
+<i>đã tạo ra truyền thuyết cho loài
+Andrias Japonicus,</i>
+
+353
+00:18:12,051 --> 00:18:14,284
+<i>kỳ nhông khổng lồ Nhật Bản.</i>
+
+354
+00:18:17,189 --> 00:18:20,524
+<i>Ông Tochimoto đã khảo sát về
+loài kỳ nhông</i>
+
+355
+00:18:20,526 --> 00:18:24,228
+<i>trên con lạch này 30 năm qua.</i>
+
+356
+00:18:24,230 --> 00:18:27,231
+<i>Sinh vật này đang đứng bên bờ tuyệt chủng,</i>
+
+357
+00:18:27,233 --> 00:18:31,068
+<i>nên áp lực đè nặng lên tôi
+là phải tìm ra một mẫu thử về nó.</i>
+
+358
+00:18:31,070 --> 00:18:33,003
+<i>Chúng là loài được bảo vệ,</i>
+
+359
+00:18:33,005 --> 00:18:35,939
+<i>Nên nếu tôi không trợ giúp anh ấy
+cho cuộc khảo sát này,</i>
+
+360
+00:18:35,941 --> 00:18:38,208
+<i>tôi sẽ không được phép tiếp cận chúng.</i>
+
+361
+00:18:38,210 --> 00:18:40,511
+Sinh vật này có hàm răng nhọn
+có thể cắt đứt ngón tay tôi
+
+362
+00:18:40,513 --> 00:18:42,212
+nên khi đến gần miệng chúng,
+
+363
+00:18:42,214 --> 00:18:44,081
+tôi phải dùng găng thép Kevlar.
+
+364
+00:18:44,083 --> 00:18:46,917
+Sẽ cố gắng tìm ra một con,
+
+365
+00:18:46,919 --> 00:18:49,019
+phải xuống dòng nước để bắt nó.
+
+366
+00:18:57,329 --> 00:19:00,431
+<i>Tôi nghĩ tôi đã trúng số.</i>
+
+367
+00:19:00,433 --> 00:19:01,999
+Có một con nằm dưới đây, mà cũng có thể là hai.
+
+368
+00:19:02,001 --> 00:19:03,500
+Có một cái đuôi thò ra
+
+369
+00:19:03,502 --> 00:19:05,302
+cách 1,2 đến 1,5m dưới nước.
+
+370
+00:19:05,304 --> 00:19:07,071
+Nó ngay dưới tảng đá này.
+
+371
+00:19:07,073 --> 00:19:08,505
+Nó thực sự di chuyển.
+
+372
+00:19:08,507 --> 00:19:09,907
+Khi tôi vòng qua, nó có vẻ rút vào.
+
+373
+00:19:09,909 --> 00:19:13,177
+Anh Tochimoto, vấn đề là mình
+chỉ thấy cái đuôi nó,
+
+374
+00:19:13,179 --> 00:19:14,945
+chỉ có một chút đuôi thò ra ngoài.
+
+375
+00:19:14,947 --> 00:19:16,980
+Vậy ta nắm đuôi kéo ra sao?
+
+376
+00:19:16,982 --> 00:19:18,348
+Níu chặt nó?
+
+377
+00:19:18,350 --> 00:19:19,483
+OK, OK.
+
+378
+00:19:19,485 --> 00:19:21,752
+OK, vậy nắm chặt bằng đôi găng này?
+
+379
+00:19:21,754 --> 00:19:22,686
+OK.
+
+380
+00:19:22,688 --> 00:19:26,223
+<i>Tôi ra chỗ thuận lợi hơn.</i>
+
+381
+00:19:26,225 --> 00:19:29,293
+<i>Đây là con quái vật tôi không thể
+bắt bằng cách câu.</i>
+
+382
+00:19:29,295 --> 00:19:31,095
+<i>Tôi phải dùng tay.</i>
+
+383
+00:19:46,367 --> 00:19:48,701
+<i>Tôi đang ở Nhật Bản, và tôi đã bắt được</i>
+
+384
+00:19:48,703 --> 00:19:51,570
+<i>loài kỳ nhông lớn nhất thế giới.</i>
+
+385
+00:19:53,908 --> 00:19:55,841
+<i>Đây là loại sinh vật mà mọi người nghĩ</i>
+
+386
+00:19:55,843 --> 00:19:59,678
+<i>là đã đứng sau truyền thuyết về một quái vật
+vồ lấy trẻ con.</i>
+
+387
+00:19:59,680 --> 00:20:01,814
+<i>Chúng còn lớn hơn tôi tưởng
+nhưng, wow,</i>
+
+388
+00:20:01,816 --> 00:20:04,950
+<i>Sinh vật này rất hung hăng
+dù tôi nghĩ nó vô hại.</i>
+
+389
+00:20:06,554 --> 00:20:09,288
+<i>Điều tốt là gã này, không giống như cá</i>
+
+390
+00:20:09,290 --> 00:20:12,324
+<i>dù nó sống trong nước
+nhưng quê hương nó là trên mặt đất.</i>
+
+391
+00:20:12,326 --> 00:20:15,494
+<i>Không lâu đâu, nó sẽ dịu xuống ngay.</i>
+
+392
+00:20:18,165 --> 00:20:19,965
+<i>Anh Tochomoto đang giám sát sức khỏe</i>
+
+393
+00:20:19,967 --> 00:20:23,635
+<i>nguyên một quần thể kỳ nhông
+đang sống trên con rạch này...</i>
+
+394
+00:20:23,637 --> 00:20:25,771
+Nó nặng gần 5kg.
+
+395
+00:20:25,773 --> 00:20:28,774
+<i>...đo đạt kích thước và gắn thẻ cho chúng...</i>
+
+396
+00:20:28,776 --> 00:20:31,577
+Anh ấy đếm hết các ngón chân —
+tất cả đều bình thường.
+
+397
+00:20:31,579 --> 00:20:33,712
+<i>Nên anh ấy có thể xây dựng
+một hình ảnh rõ ràng</i>
+
+398
+00:20:33,714 --> 00:20:38,117
+<i>làm sao sinh vật hiếm hoi này sống được
+trong hoang dã.</i>
+
+399
+00:20:38,119 --> 00:20:39,752
+Dài gần một mét.
+
+400
+00:20:39,754 --> 00:20:43,222
+<i>Và bây giờ chúng tôi bắt một con khác
+cho anh ấy khảo sát.</i>
+
+401
+00:20:43,224 --> 00:20:45,824
+Đây là một loài tôi chưa từng bắt trước đây.
+
+402
+00:20:45,826 --> 00:20:48,560
+Nó chưa từng được gắn chip.
+Nó cũng khá dễ bắt.
+
+403
+00:20:50,297 --> 00:20:51,697
+Bình thường,
+tôi không được chạm đến con vật này,
+
+404
+00:20:51,699 --> 00:20:54,967
+nhưng hiện tại tôi như trợ lý
+cho anh Tochimoto
+
+405
+00:20:54,969 --> 00:20:57,536
+nên tôi có thể bắt chúng.
+
+406
+00:21:04,912 --> 00:21:07,980
+Các cuộc điều tra chẳng những riêng
+cho các loài được bảo vệ
+
+407
+00:21:07,982 --> 00:21:09,615
+mà còn tìm hiểu thêm chúng nữa.
+
+408
+00:21:09,617 --> 00:21:13,252
+Các cuộc khám phá cũng có thể
+mang lại lợi ích cho con người.
+
+409
+00:21:13,254 --> 00:21:16,588
+Chẳng hạn như,
+hầu hết các loài kỳ nhông nước,
+
+410
+00:21:16,590 --> 00:21:20,092
+đều thân thiện với con người.
+
+411
+00:21:20,094 --> 00:21:23,762
+<i>Và tất cả các loài kỳ nhông
+đều là siêu sao tái sinh.</i>
+
+412
+00:21:23,764 --> 00:21:26,298
+<i>Chúng có khả năng phát triển
+phần phổi còn lại,</i>
+
+413
+00:21:26,300 --> 00:21:29,902
+<i>chiếc chân bị đứt, ngay cả tăng sinh bộ não.</i>
+
+414
+00:21:29,904 --> 00:21:31,537
+<i>Các nhà khoa học đang xem xét khả năng</i>
+
+415
+00:21:31,539 --> 00:21:33,672
+<i>các loại kỳ nhông nước tái tạo lại mô</i>
+
+416
+00:21:33,674 --> 00:21:36,008
+<i>với hy vọng chúng ta có thể bắt chước</i>
+
+417
+00:21:36,010 --> 00:21:39,178
+<i>tái tạo giống kỳ nhông trong cơ thể người</i>
+
+418
+00:21:39,180 --> 00:21:41,213
+<i>ở môi trường bệnh viện.</i>
+
+419
+00:21:41,215 --> 00:21:43,248
+Đơn giản là nhờ vào kỳ nhông,
+
+420
+00:21:43,250 --> 00:21:46,118
+một ngày nào đó chúng ta có thể tái sinh các chi
+
+421
+00:21:46,120 --> 00:21:48,754
+hoặc phục hồi lại cơ quan nội tạng.
+
+422
+00:21:48,756 --> 00:21:50,722
+Đây là chuyện khoa học viễn tưởng
+
+423
+00:21:50,724 --> 00:21:55,694
+bắt đầu từ thực tế.
+
+424
+00:21:55,696 --> 00:21:58,630
+Tôi chỉ được cho phép bắt
+kỳ nhông khổng lồ Nhật Bản
+
+425
+00:21:58,632 --> 00:22:01,366
+vì lúc này tôi hỗ trợ cho các nhà khoa học.
+
+426
+00:22:01,368 --> 00:22:02,668
+Đây cũng là trường hợp
+
+427
+00:22:02,670 --> 00:22:05,404
+tôi trở lại nước Úc ở dòng sông
+Fitzroy xa xôi
+
+428
+00:22:05,406 --> 00:22:07,473
+ở miền tây nước này.
+
+429
+00:22:07,475 --> 00:22:09,575
+Ngoại trừ ở đây,
+các nhà khoa học không muốn giúp sức
+
+430
+00:22:09,577 --> 00:22:11,643
+một con quái vật hiếm hoi.
+
+431
+00:22:11,645 --> 00:22:13,245
+Họ đang theo đuổi hai thứ.
+
+432
+00:22:13,645 --> 00:22:17,245
+DÒNG SÔNG QUÁI VẬT
+NƯỚC ÚC
+
+433
+00:22:24,058 --> 00:22:26,225
+<i>Tôi đang ở miền tây nước Úc</i>
+
+434
+00:22:26,227 --> 00:22:28,760
+<i>khét tiếng là nơi có động vật
+ăn thịt người.</i>
+
+435
+00:22:28,760 --> 00:22:30,660
+Đây là dòng sông Fitzroy.
+
+436
+00:22:30,860 --> 00:22:32,860
+Một vùng đất tận cùng.
+
+437
+00:22:32,960 --> 00:22:34,860
+Cho bất kỳ sinh vật nào sống sót dưới kia.
+
+438
+00:22:34,960 --> 00:22:35,860
+Nó rất khắc nghiệt.
+
+439
+00:22:40,774 --> 00:22:43,876
+<i>Dòng sông Fitzroy chảy qua
+một trong những vùng rộng lớn nhất thế giới,</i>
+
+440
+00:22:43,878 --> 00:22:50,282
+<i>là những chốn hoang dã, yên tĩnh,
+ít người lui tới.</i>
+
+441
+00:22:50,284 --> 00:22:52,751
+<i>Ở nơi đây tôi đã nghe,</i>
+
+442
+00:22:52,753 --> 00:22:57,856
+<i>nó là nơi ẩn náu của một sinh vật
+có từ thời khủng long.</i>
+
+443
+00:22:57,858 --> 00:23:01,493
+<i>Tôi đang làm việc với nhà khoa học Mỹ
+chuyên về cá Jeff Whitty</i>
+
+444
+00:23:01,495 --> 00:23:03,729
+<i>và đội của anh ấy
+chuyên nghiên cứu cá nước ngọt</i>
+
+445
+00:23:03,731 --> 00:23:06,532
+<i>ở đại học Murdoch.</i>
+
+446
+00:23:06,534 --> 00:23:08,000
+<i>Tôi được cấp đặc quyền</i>
+
+447
+00:23:08,002 --> 00:23:11,937
+<i>theo dõi và bắt nghiên cứu loài cá đao
+đang đứng trước nguy cơ tuyệt chủng.</i>
+
+448
+00:23:14,108 --> 00:23:18,243
+<i>Về mặt thể chất cá đao
+rất gần gủi với cá mập.</i>
+
+449
+00:23:18,245 --> 00:23:20,212
+<i>Chúng có vi lưng giống cá mập,</i>
+
+450
+00:23:20,214 --> 00:23:24,183
+<i>cơ thể dài, cái đuôi cao và quét mạnh.</i>
+
+451
+00:23:24,185 --> 00:23:26,652
+<i>nhưng chính chiếc mũi mới chứa
+nhiều mưu đồ trong đó.</i>
+
+452
+00:23:26,654 --> 00:23:28,453
+<i>Mặt dù nó có một hồ sơ hung dữ,</i>
+
+453
+00:23:28,455 --> 00:23:30,956
+<i>nhưng ít khi thấy chúng ra tay.</i>
+
+454
+00:23:33,761 --> 00:23:35,394
+<i>Tôi quăng đường câu xuống dòng sông,</i>
+
+455
+00:23:35,396 --> 00:23:39,298
+<i>Nhưng có lẽ tôi phải chờ lâu.</i>
+
+456
+00:23:39,300 --> 00:23:41,800
+<i>Ngày nhanh chóng biến thành đêm.</i>
+
+457
+00:23:46,874 --> 00:23:48,674
+<i>Trước đây chúng có khắp vùng nhiệt đới,</i>
+
+458
+00:23:48,676 --> 00:23:52,811
+<i>cá đao nước ngọt giờ rất khó tìm.</i>
+
+459
+00:23:52,813 --> 00:23:54,413
+<i>Đặc biệt cá đao được buôn bán
+qua đường thương mại,</i>
+
+460
+00:23:54,415 --> 00:23:56,848
+<i>phải chịu thuế nặng.</i>
+
+461
+00:23:56,850 --> 00:24:00,152
+<i>Lạm sát trong những năm qua
+đã quét sạch chúng.</i>
+
+462
+00:24:02,790 --> 00:24:05,924
+<i>Điều này đặt tôi vào vị trí đặc quyền.</i>
+
+463
+00:24:14,602 --> 00:24:15,801
+Oh.
+
+464
+00:24:19,506 --> 00:24:21,273
+Yeah, yeah, yeah, yeah, yeah.
+
+465
+00:24:24,506 --> 00:24:32,273
+HỒ SƠ VỀ CÁ
+Chiến lược sống còn nào được sử dụng cho các loài cá đao
+để tránh tuyệt chủng?
+Câu trả lời sẽ có sau đây.
+
+466
+00:24:32,506 --> 00:24:41,010
+HỒ SƠ VỀ CÁ
+Chúng tôi hỏi: Chiến lược sống còn nào được sử dụng cho các loài cá đao
+để tránh tuyệt chủng?
+
+467
+00:24:42,010 --> 00:24:45,278
+<i>Câu trả lời là sinh sản đơn tính.</i>
+
+468
+00:24:45,280 --> 00:24:49,015
+<i>Các nhà khoa học đã khám phá
+một số cá đao cái </i>
+
+469
+00:24:49,017 --> 00:24:52,118
+<i>có khả năng tự sinh sản
+không cần sự hiện diện của con đực.</i>
+
+470
+00:24:57,158 --> 00:24:59,292
+<i>Tôi đang ở trên dòng sông Fitzroy</i>
+
+471
+00:24:59,294 --> 00:25:02,695
+<i>dòng nước chứa các loài săn mồi
+hoang dã nhất nước Úc.</i>
+
+472
+00:25:02,697 --> 00:25:04,030
+<i>Và tôi đang câu cá với các nhà khoa học</i>
+
+473
+00:25:04,032 --> 00:25:08,067
+<i>để nghiên cứu về loài cá đao
+đang đứng trước nguy cơ tuyệt chủng.</i>
+
+474
+00:25:08,069 --> 00:25:10,770
+Oh, một con cá đao!
+Cá đao đó.
+
+475
+00:25:20,782 --> 00:25:22,915
+Đây rồi — Con cá đao đầu tiên của tôi.
+
+476
+00:25:25,220 --> 00:25:26,886
+Hãy nhìn con thủy quái này đi.
+
+477
+00:25:26,888 --> 00:25:28,187
+Con cá này — dài gần 2m.
+
+478
+00:25:28,189 --> 00:25:30,323
+Nó còn dài hơn cả tôi.
+
+479
+00:25:30,325 --> 00:25:33,393
+Và chiếc mỏ kìa, dài gần 5 tấc.
+
+480
+00:25:33,395 --> 00:25:36,062
+Nó có 39 chiếc răng.
+
+481
+00:25:36,064 --> 00:25:37,296
+Mỗi răng cao 2,5cm —
+
+482
+00:25:37,298 --> 00:25:39,599
+bén nhọn như dao.
+
+483
+00:25:39,601 --> 00:25:42,335
+Con này có một vi lưng lớn,
+một vi lưng thứ nhì cũng lớn,
+
+484
+00:25:42,337 --> 00:25:44,470
+cái đuôi mở rộng,
+
+485
+00:25:44,472 --> 00:25:46,039
+thân hình mỏ neo.
+
+486
+00:25:46,041 --> 00:25:47,840
+Và khi uốn cong lại,
+
+487
+00:25:47,842 --> 00:25:50,043
+cái đầu và chiếc mỏ này
+
+488
+00:25:50,045 --> 00:25:54,547
+quét từ bên này sang bên kia.
+
+489
+00:25:54,549 --> 00:25:56,182
+<i>Jeff cố giữ chiếc đuôi,</i>
+
+490
+00:25:56,184 --> 00:25:59,886
+<i>trong khi tôi giữ phần hoạt động nhất
+của con cá.</i>
+
+491
+00:25:59,888 --> 00:26:01,788
+Yeah.
+
+492
+00:26:06,327 --> 00:26:09,429
+Yeah.
+
+493
+00:26:09,431 --> 00:26:10,930
+Để sát theo thân nó chứ?
+
+494
+00:26:10,932 --> 00:26:13,366
+Đặt một thẻ phát sóng âm vào đây.
+
+495
+00:26:16,271 --> 00:26:19,305
+Bản tính cá đao rất gan lì.
+
+496
+00:26:19,307 --> 00:26:22,709
+Con này đã từng chiến đấu chống lại cá mập,
+
+497
+00:26:22,711 --> 00:26:25,912
+cũng như bị cá sấu tấn công mới đây.
+
+498
+00:26:25,914 --> 00:26:28,781
+<i>Tuy nhiên trong một thế giới 
+đầy những lưới cá,</i>
+
+499
+00:26:28,783 --> 00:26:30,883
+<i>vũ khí đắc dụng nó cần để sống còn</i>
+
+500
+00:26:30,885 --> 00:26:34,287
+<i>là có khả năng xé lưới để thoát ra
+và săn được con mồi.</i>
+
+501
+00:26:36,491 --> 00:26:39,926
+<i>Nỗi sợ của tôi khi nó lội đi
+là có thể đây là lần cuối chúng tôi còn thấy</i>
+
+502
+00:26:39,928 --> 00:26:43,763
+<i>con vật ngoại lệ thời tiền sử này.</i>
+
+503
+00:26:47,569 --> 00:26:51,270
+Đội của Jeff đã gắn thẻ cho hơn 150 con cá đao
+
+504
+00:26:51,272 --> 00:26:53,906
+và giờ có thể xác nhận rằng
+cả dòng sông Fitzroy này
+
+505
+00:26:53,908 --> 00:26:57,343
+là nơi nuôi dưỡng loài cá đặc biệt này.
+
+506
+00:26:58,613 --> 00:27:00,480
+Nhưng đó không phải là công việc
+cuối cùng của tôi
+
+507
+00:27:00,482 --> 00:27:01,948
+với Jeff và đội của anh ấy.
+
+508
+00:27:01,950 --> 00:27:04,550
+Họ có một thử thách lớn lao phía trước
+dành cho tôi.
+
+509
+00:27:04,552 --> 00:27:07,920
+Họ còn muốn tôi bắt giúp loài cá mập sông,
+<font color=lightblue>Glyphis shark: còn gọi là cá mập sông (river shark). Giống (genius) này có 3 loài (species):
++ Ganges shark (Glyphis gangeticus — Cá mập sông Hằng)
++ Northern river shark (Glyphis garricki — Cá mập phương bắc)
++ Speartooth shark (Glyphis glyphis — Cá mập răng mũi giáo)
+Rất khó tìm thấy chúng do thói quen sống bí mật. Phân bố địa lý không chắc chắn nhưng hay thấy
+ở nam, hay đông nam Châu Á, New Guinea và nước Úc. Cá mập bò thường được gọi là cá mập sông
+hay cá mập sông Hằng, đây là cách gọi nhầm lẫn và nó khác loài hẳn với 3 loài trên. Wikipedia.
+
+510
+00:27:07,922 --> 00:27:09,122
+một sinh vật khá hiếm,
+
+511
+00:27:09,124 --> 00:27:12,358
+đến giờ này số lượng bắt được
+để khảo sát dưới 20 con.
+
+512
+00:27:15,497 --> 00:27:18,898
+<i>Jeff là một trong số ít người
+từng thấy cá mập sông.</i>
+
+513
+00:27:18,900 --> 00:27:20,099
+Chúng là loài cá mập khá hiếm
+
+514
+00:27:20,101 --> 00:27:22,068
+Chúng chỉ được phát hiện ở miền tây nước Úc
+
+515
+00:27:22,070 --> 00:27:23,336
+hình như vào năm 2002.
+
+516
+00:27:23,338 --> 00:27:24,537
+Wade: Đúng rồi.
+
+517
+00:27:24,539 --> 00:27:26,439
+Và từ đó số lượng bắt được rất ít,
+
+518
+00:27:26,441 --> 00:27:29,242
+có rất ít hiểu biết về loài cá này.
+
+519
+00:27:30,445 --> 00:27:33,813
+<i>Có lần đã bắt được con chưa trưởng thành,</i>
+
+520
+00:27:33,815 --> 00:27:37,650
+<i>và họ nghĩ chúng có thể lớn trên 2,7m.</i>
+
+521
+00:27:37,652 --> 00:27:40,419
+<i>Phạm vi địa lý, số con trong quần thể,</i>
+
+522
+00:27:40,421 --> 00:27:45,224
+<i>và hành vi của chúng vẫn còn
+trong màn bí mật.</i>
+
+523
+00:27:45,226 --> 00:27:48,761
+<i>Và không ai biết chúng có
+đứng trước nguy cơ tuyệt chủng không.</i>
+
+524
+00:27:48,763 --> 00:27:50,496
+<i>Đó là nơi tôi đến.</i>
+
+525
+00:27:50,498 --> 00:27:54,000
+Có cơ may nào để bắt một trong những
+con cá này lên tàu không?
+
+526
+00:27:54,002 --> 00:27:55,735
+Có khả năng  — Đây là loài cá rất hiếm,
+
+527
+00:27:55,737 --> 00:27:58,538
+ngay cả khi chúng được liệt kê
+trong nhóm nguy cơ cao.
+
+528
+00:27:58,540 --> 00:27:59,806
+Luôn luôn có cơ hội.
+
+529
+00:27:59,808 --> 00:28:01,774
+Đó là niềm vui khi câu cá.
+Luôn luôn có cơ may.
+
+530
+00:28:01,776 --> 00:28:03,042
+Nhưng một cơ may rất hiếm.
+
+531
+00:28:03,044 --> 00:28:05,678
+Nếu tôi thu xếp để câu được một con
+trong vài ngày tới,
+
+532
+00:28:05,680 --> 00:28:08,748
+có thể đó là sự thêm vào đáng kể
+
+533
+00:28:08,750 --> 00:28:10,082
+cho các dữ liệu.
+
+534
+00:28:10,084 --> 00:28:12,451
+Rất ít cá mập loại này được bắt ở tây Úc.
+
+535
+00:28:12,453 --> 00:28:15,688
+Nên việc lấy được một mẫu thử
+dù chỉ một con
+
+536
+00:28:15,690 --> 00:28:18,291
+cũng là sự đóng góp to lớn.
+
+537
+00:28:18,293 --> 00:28:21,627
+<i>Còn nếu như tôi câu dính một</i>
+
+538
+00:28:21,629 --> 00:28:23,429
+<i>thì đúng là chuyện lớn.</i>
+
+539
+00:28:32,707 --> 00:28:34,307
+<i>Có thể tôi tự đùa với mình</i>
+
+540
+00:28:34,309 --> 00:28:36,976
+<i>khi nghĩ rằng mình có thể câu dính
+một con cá mập sông.</i>
+
+541
+00:28:36,978 --> 00:28:38,411
+<i>Người ta đi lên cung trăng dễ hơn</i>
+
+542
+00:28:38,413 --> 00:28:40,112
+<i>câu được loài cá mập này.</i>
+
+543
+00:28:43,318 --> 00:28:45,618
+<i>Mấy ngày câu cá và tôi tự hỏi</i>
+
+544
+00:28:45,620 --> 00:28:48,921
+<i>liệu mình có làm một việc 
+quá sức mình hay không.</i>
+
+545
+00:28:48,923 --> 00:28:53,359
+<i>Nhưng rồi, có gì đó kéo dây câu.</i>
+
+546
+00:28:58,166 --> 00:29:01,167
+Yeah, yeah.
+Có gì đó dính câu.
+
+547
+00:29:06,708 --> 00:29:09,008
+Yeah, Có... có gì đó.
+
+548
+00:29:22,523 --> 00:29:26,692
+<i>Đó là một con cá mập nhưng còn xa
+mới tóm được nó</i>
+
+549
+00:29:26,694 --> 00:29:29,195
+<i>đó là cách mà những người đi câu
+thường gọi là móc không nhằm miệng,</i>
+
+550
+00:29:29,197 --> 00:29:31,597
+<i>tức là lưỡi câu không móc vào miệng cá.</i>
+
+551
+00:29:31,599 --> 00:29:33,833
+<i>Nó móc vào phần khác của cơ thể —</i>
+
+552
+00:29:33,835 --> 00:29:38,137
+<i>trong trường hợp này
+nó vướng nhẹ vào một chiếc vi.</i>
+
+553
+00:29:38,139 --> 00:29:41,140
+<i>Nó sẽ tuột ra bất kỳ lúc nào.</i>
+
+554
+00:29:41,142 --> 00:29:42,909
+<i>Chúng tôi phải vồ lấy nó.</i>
+
+555
+00:29:42,911 --> 00:29:44,777
+Xem kìa. Xem kìa.
+
+556
+00:29:44,779 --> 00:29:46,979
+Được rồi. Được rồi.
+
+557
+00:29:46,981 --> 00:29:49,515
+Tốt rồi.
+
+558
+00:29:49,517 --> 00:29:51,884
+<i>Đột nhiên im bặt —</i>
+
+559
+00:29:51,886 --> 00:29:53,853
+<i>vì mọi người trên tàu</i>
+
+560
+00:29:53,855 --> 00:29:57,290
+<i>nhận ra đây là trường hợp
+hết sức đặc biệt.</i>
+
+561
+00:29:57,292 --> 00:29:59,592
+Wade: Gắn một cái thẻ nhận diện trên nó chứ?
+
+562
+00:29:59,594 --> 00:30:01,093
+Yeah, chắc chắn rồi.
+Thật tuyệt.
+
+563
+00:30:04,699 --> 00:30:09,235
+Đây là lần đầu tiên trên thế giới —
+quay được một một con cá mập sông
+
+564
+00:30:09,237 --> 00:30:11,270
+mà trước đây chưa từng lên phim bao giờ.
+
+565
+00:30:11,272 --> 00:30:15,641
+Tôi hầu như không tin vào mắt mình.
+
+566
+00:30:15,643 --> 00:30:17,810
+<i>Chúng tôi cần hành động nhanh.</i>
+
+567
+00:30:17,812 --> 00:30:19,345
+<i>Loài cá mập này quá hiếm,</i>
+
+568
+00:30:19,347 --> 00:30:22,214
+<i>Chúng tôi chỉ được phép giữ nó
+trong 60 giây.</i>
+
+569
+00:30:24,152 --> 00:30:26,719
+<i>Chúng tôi chỉ được biết loài cá này
+vẫn còn tồn tại.</i>
+
+570
+00:30:26,721 --> 00:30:29,555
+<i>Cho đến bây giờ, chúng tôi không biết gì
+về hành vi của chúng</i>
+
+571
+00:30:29,557 --> 00:30:31,123
+<i>hoặc chúng sẽ lớn đến bao nhiêu.</i>
+
+572
+00:30:33,127 --> 00:30:35,861
+<i>Nhưng chúng tôi cũng thu thập được vài dữ kiện
+và gắn được một chiếc thẻ</i>
+
+573
+00:30:35,863 --> 00:30:42,835
+<i>một bước đi nhỏ nhoi để hiểu về loài này.</i>
+
+574
+00:30:42,837 --> 00:30:45,304
+Cá mập sông và cá đao đều được gắn thẻ
+
+575
+00:30:45,306 --> 00:30:47,139
+dùng dụng cụ như thế này,
+
+576
+00:30:47,141 --> 00:30:49,809
+chẳng những tạo ra một cái lỗ trên vi lưng
+
+577
+00:30:49,811 --> 00:30:51,243
+để gắn thẻ vào,
+
+578
+00:30:51,245 --> 00:30:55,715
+nó còn đẩy ra một chút thịt.
+
+579
+00:30:55,717 --> 00:30:58,250
+Miếng thịt nhỏ xíu này nắm giữ
+
+580
+00:30:58,252 --> 00:31:01,153
+mọi loại thông tin về con cá.
+
+581
+00:31:01,155 --> 00:31:03,222
+Dưới kính hiển vi bạn có thể thấy
+
+582
+00:31:03,224 --> 00:31:06,559
+từng tế bào riêng biệt.
+
+583
+00:31:06,561 --> 00:31:10,997
+Và mỗi nhân tế bào đều chứa DNA.
+
+584
+00:31:10,999 --> 00:31:13,966
+<i>Khi những mẩu mô này
+được thu thập và phân tích,</i>
+
+585
+00:31:13,968 --> 00:31:18,037
+<i>DNA sẽ nói cho các nhà khoa học biết
+sức khỏe của quần thể cá mập này ra sao</i>
+
+586
+00:31:18,039 --> 00:31:19,372
+<i>trong một vùng nhất định</i>
+
+587
+00:31:19,374 --> 00:31:23,843
+<i>và cũng sẽ biết khi quần thể này
+được cô lập riêng.</i>
+
+588
+00:31:23,845 --> 00:31:25,745
+<i>Điều này sẽ quyết định vì các quần thể</i>
+
+589
+00:31:25,747 --> 00:31:28,414
+<i>bị cô lập và không khỏa mạnh</i>
+
+590
+00:31:28,416 --> 00:31:30,649
+<i>nhiều khả năng sẽ bị loại bỏ.</i>
+
+591
+00:31:33,054 --> 00:31:36,622
+<i>Bất kỳ nơi đâu ở Úc, Na Uy hay Nam Phi,</i>
+
+592
+00:31:36,624 --> 00:31:40,860
+<i>khoa học sẽ mở rộng tầm hiểu biết của chúng ta
+về các loài cá mập.</i>
+
+593
+00:31:40,862 --> 00:31:44,764
+<i>Nhưng một số nhiệm vụ khó khăn
+hơn những thứ khác.</i>
+
+594
+00:31:44,766 --> 00:31:46,565
+<i>Khi tôi nghe có một số ngư dân bị biến mất</i>
+
+595
+00:31:46,567 --> 00:31:49,602
+<i>trong vùng nước ngoài khơi Alaska
+một sự nghi ngờ lộ diện</i>
+
+596
+00:31:49,604 --> 00:31:52,538
+<i>khi các nhà khoa học ít biết về,</i>
+
+597
+00:31:52,540 --> 00:31:54,540
+<i>loài cá mập ăn cá hồi (salmon shark).
+<font color=lightblue>Salmon shark (Lamna ditropis) được tìm thấy phía bắc Thái Bình Dương.
+Là một loài thú săn mồi hàng đỉnh, loài cá mập này ăn cá hồi, mực ống, cá than và cá trích. Wikipedia.</i>
+
+598
+00:31:54,542 --> 00:31:59,045
+<i>Liệu sinh vật này có thể là thủ phạm
+cho những cái chết đó?</i>
+
+599
+00:31:59,047 --> 00:32:01,213
+<i>Cho đến bây giờ chưa ai cho biết</i>
+
+600
+00:32:01,215 --> 00:32:03,215
+<i>loài cá mập này nguy hiểm đến đâu.</i>
+
+601
+00:32:03,217 --> 00:32:05,785
+<i>Nên tôi quyết định đưa điều này
+vào tầm ngắm</i>
+
+602
+00:32:05,787 --> 00:32:08,554
+<i>là một trong những thử nghiệm
+có nhiều nguy cơ mà tôi từng thực hiện.</i>
+
+603
+00:32:17,406 --> 00:32:20,440
+<i>Ở Alaska, một số ngư dân đã biến mất.</i>
+
+604
+00:32:20,442 --> 00:32:23,010
+<i>Một thủ phạm là anh em
+trong vùng nước lạnh</i>
+
+605
+00:32:23,012 --> 00:32:26,180
+<i>của cá mập trắng,
+cá mập ăn cá hồi.</i>
+
+606
+00:32:26,182 --> 00:32:28,148
+<i>Nhưng có rất ít hiểu biết
+về sự nguy hiểm của loài này</i>
+
+607
+00:32:28,150 --> 00:32:29,516
+<i>đối với con người.</i>
+
+608
+00:32:29,518 --> 00:32:32,586
+<i>Nên tôi sẽ đặt cây cần câu của mình
+sang một bên</i>
+
+609
+00:32:32,588 --> 00:32:35,556
+<i>xem chúng phản ứng như thế nào
+khi có con người dưới mặt nước</i>
+
+610
+00:32:35,558 --> 00:32:37,457
+<i>cạnh thức ăn bình thường của chúng.</i>
+
+611
+00:32:38,558 --> 00:32:41,457
+MỒI NGƯỜI
+ALASKA
+
+612
+00:32:42,398 --> 00:32:44,131
+<i>Chúng tôi thảy một con cá trích
+xuống dòng nước</i>
+
+613
+00:32:44,133 --> 00:32:48,235
+<i>làm con cá mập chuyển sang
+chế độ săn mồi.</i>
+
+614
+00:32:48,237 --> 00:32:50,237
+<i>Và có vẻ như nó phản ứng.</i>
+
+615
+00:32:52,441 --> 00:32:54,808
+<i>Tôi xuống nước mà không có
+thiết bị bảo hộ nào,</i>
+
+616
+00:32:54,810 --> 00:32:57,878
+<i>Chỉ có bộ đồ thông thường và
+chiếc ống thở.</i>
+
+617
+00:32:57,880 --> 00:33:00,380
+Nghe có vẻ điên rồ,
+
+618
+00:33:00,382 --> 00:33:01,648
+nhưng chỉ có một cách duy nhất
+
+619
+00:33:01,650 --> 00:33:04,117
+để chúng tôi đo lường xem chúng
+phản ứng thế nào trước con người
+
+620
+00:33:04,119 --> 00:33:06,086
+khi chúng thực sự chuyển sang chế độ săn mồi.
+
+621
+00:33:16,031 --> 00:33:17,698
+<i>Bây giờ tôi đang ở dưới nước,</i>
+
+622
+00:33:17,700 --> 00:33:19,800
+<i>tôi rất dễ bị tấn công.</i>
+
+623
+00:33:19,802 --> 00:33:22,502
+<i>Ngày càng có nhiều cá mập
+lộ diện từ khung cảnh ảm đạm,</i>
+
+624
+00:33:22,504 --> 00:33:26,406
+<i>đuổi bắt con mồi với tốc độ nhanh nhẹn.</i>
+
+625
+00:33:28,210 --> 00:33:30,811
+<i>Rồi các con cá mập tới gần,</i>
+
+626
+00:33:30,813 --> 00:33:33,280
+<i>và tôi bị bao quanh bởi chúng.</i>
+
+627
+00:33:33,282 --> 00:33:36,917
+<i>Chúng có vẻ như tiến thẳng vào
+bất cứ thứ gì nhỏ, có màu bạc,</i>
+
+628
+00:33:36,919 --> 00:33:39,119
+<i>giúp như các con cá chúng nhắm vào.</i>
+
+629
+00:33:39,121 --> 00:33:41,288
+<i>Một con cá mập chạy lắt léo quanh tôi</i>
+
+630
+00:33:41,290 --> 00:33:44,691
+<i>để tấn công vào chiếc máy quay
+dưới nước của chúng tôi.</i>
+
+631
+00:33:47,296 --> 00:33:49,363
+Cá mập đớp con cá trích ngay trước mặt tôi.
+
+632
+00:33:49,365 --> 00:33:50,297
+Tôi thấy hàm nó mở to.
+
+633
+00:33:57,139 --> 00:33:59,673
+Thao tác ăn  mồi rất, rất gần tôi.
+
+634
+00:33:59,675 --> 00:34:04,378
+Tôi như bị cản trở.
+
+635
+00:34:04,380 --> 00:34:05,913
+Các con cá mập này đang ở chế độ săn mồi.
+
+636
+00:34:05,915 --> 00:34:07,014
+Không nghi ngờ về chuyện đó.
+
+637
+00:34:07,016 --> 00:34:08,982
+Nhưng nó không đến vì con người.
+
+638
+00:34:08,984 --> 00:34:10,517
+Tức là —
+Đó là con cá mập huyền thoại.
+
+639
+00:34:10,519 --> 00:34:14,521
+Sự thật về những con cá này
+chỉ khu trú trên chuyện — nó chỉ là cá.
+
+640
+00:34:16,425 --> 00:34:18,926
+Đó là một trải nghiệm đáng lo
+
+641
+00:34:18,928 --> 00:34:22,229
+nhưng nguy cơ đó đáng giá với việc
+đưa ra những thông tin mới
+
+642
+00:34:22,231 --> 00:34:25,098
+về loài cá mập ít biết này.
+
+643
+00:34:25,100 --> 00:34:26,533
+Những cuộc khảo sát mới đây,
+
+644
+00:34:26,535 --> 00:34:28,802
+quan sát về loài động vật có xương sống
+như cá mập ăn cá hồi,
+
+645
+00:34:28,804 --> 00:34:31,471
+đã cho cái nhìn về những năm
+đầu đời của chúng,
+
+646
+00:34:31,473 --> 00:34:33,907
+trước đây có gì đó huyền bí.
+
+647
+00:34:35,344 --> 00:34:37,544
+Đây là mặt cắt ngang một đốt sống
+của cá mập.
+
+648
+00:34:37,546 --> 00:34:39,646
+Và những lằn này, giống như những thớ cây,
+
+649
+00:34:39,648 --> 00:34:42,783
+diễn tả mỗi năm của đời sống cá mập.
+
+650
+00:34:42,785 --> 00:34:44,651
+Mỗi lớp ghi nhận một hồ sơ hóa học
+
+651
+00:34:44,653 --> 00:34:47,387
+của những điều kiện môi trường
+mà cá mập tiếp xúc
+
+652
+00:34:47,389 --> 00:34:51,258
+cho thấy thói quen săn mồi
+và môi trường sống mỗi năm.
+
+653
+00:34:51,260 --> 00:34:53,994
+Nhờ đó chúng ta biết được
+nhiều loại cá mập ăn cá hồi
+
+654
+00:34:53,996 --> 00:34:55,896
+được sinh ra ở dòng hải lưu California
+
+655
+00:34:55,898 --> 00:34:57,831
+và trải qua những năm đầu đời
+
+656
+00:34:57,833 --> 00:35:00,267
+săn mồi bên ngoài bờ biển California
+và Mexico
+
+657
+00:35:00,269 --> 00:35:02,336
+trước khi di chuyển đến Alaska.
+
+658
+00:35:05,040 --> 00:35:07,874
+Tôi phải đi một chuyến hành trình xa
+để tìm những con cá mập ăn cá hồi.
+
+659
+00:35:07,876 --> 00:35:13,280
+Nhưng các con thủy quái đó
+không phải luôn được tìm thấy ở nơi xa xăm.
+
+660
+00:35:13,282 --> 00:35:15,649
+Khi tôi gia nhập đội khảo sát ở Thái Lan
+
+661
+00:35:15,651 --> 00:35:19,319
+để giúp bắt một con cá có nhiều
+lời đồn hơn là có thực,
+
+662
+00:35:19,321 --> 00:35:22,956
+không có gì chuẩn bị cho tôi
+trước cuộc chiến đấu đang chờ.
+
+663
+00:35:22,956 --> 00:35:26,956
+MẸ CỦA NHỮNG QUÁI VẬT
+THÁI LAN
+
+664
+00:35:29,131 --> 00:35:31,398
+<i>Chỉ một giờ trước khi rời khỏi Bangkok,</i>
+
+665
+00:35:31,400 --> 00:35:34,134
+<i>tôi gia nhập vào đội khảo sát
+vào một sáng sớm</i>
+
+666
+00:35:34,136 --> 00:35:36,737
+<i>trên dòng sông Mea Klong.</i>
+
+667
+00:35:36,739 --> 00:35:39,039
+<i>Nặng gấp ba lần tôi,</i>
+
+668
+00:35:39,041 --> 00:35:41,074
+<i>con cá này nằm trong một liên minh khác</i>
+
+669
+00:35:41,076 --> 00:35:43,377
+<i>hơn bất kỳ thứ gì
+mà tôi phải giải quyết trước đây.</i>
+
+670
+00:35:45,481 --> 00:35:48,482
+<i>Nó cần một cục chì nặng thế này.</i>
+
+671
+00:35:52,921 --> 00:35:55,522
+Đầu tiên chúng tôi mang cần câu đi.
+
+672
+00:35:55,524 --> 00:36:00,260
+<i>Mọi thứ được chuẩn bị,
+chúng tôi hướng về địa điểm đã chọn</i>
+
+673
+00:36:00,262 --> 00:36:04,031
+<i>một túi sâu trong dòng sông gọi là vùng 51</i>
+
+674
+00:36:04,033 --> 00:36:06,266
+<i>bởi vì, như họ nói quanh đây,</i>
+
+675
+00:36:06,268 --> 00:36:09,936
+<i>"nhung nhúc những vật thể lạ."</i>
+
+676
+00:36:09,938 --> 00:36:12,105
+<i>Và không gì giống vật thể lạ bằng</i>
+
+677
+00:36:12,107 --> 00:36:15,175
+<i>cá đuối nước ngọt khổng lồ.</i>
+
+678
+00:36:17,179 --> 00:36:19,146
+<i>Có rất ít hiểu biết về động vật này,</i>
+
+679
+00:36:19,148 --> 00:36:23,183
+<i>nên mỗi lần bắt nó là một cơ hội hiếm hoi</i>
+
+680
+00:36:23,185 --> 00:36:24,684
+<i>cho các nhà khoa học đến từ</i>
+
+681
+00:36:24,686 --> 00:36:27,487
+<i>đại học Chulalongkorn ở Bangkok,</i>
+
+682
+00:36:27,489 --> 00:36:28,855
+<i>và họ chọn tôi</i>
+
+683
+00:36:28,857 --> 00:36:32,159
+<i>để câu được một con cá đuối sống
+cho cuộc khảo sát của họ.</i>
+
+684
+00:36:41,503 --> 00:36:45,272
+Cá — Có cá cắn câu.
+
+685
+00:36:45,274 --> 00:36:47,374
+Điều này chỉ mang lại ảo giác hơn là
+
+686
+00:36:47,376 --> 00:36:48,875
+tôi câu được con cá thực sự.
+
+687
+00:36:48,877 --> 00:36:52,846
+Điều thực sự chỉ xảy ra 
+khi tôi mang được con cá lên tàu.
+
+688
+00:36:52,848 --> 00:36:56,249
+Cón cá không hẳn đi đâu đó vào lúc này.
+
+689
+00:36:56,251 --> 00:36:58,585
+Oh!
+
+690
+00:36:58,587 --> 00:37:00,587
+Sự kéo của bộ guồng câu giống như
+
+691
+00:37:00,589 --> 00:37:02,322
+thắng tay trên xe hơi.
+
+692
+00:37:02,324 --> 00:37:05,125
+Và nó hầu như đã kéo căng.
+
+693
+00:37:05,127 --> 00:37:07,594
+Con cá căn bản đã kéo dây câu.
+
+694
+00:37:07,596 --> 00:37:10,030
+Khi tôi quan sát vào lúc đó,
+nó xả ra một inch,
+
+695
+00:37:10,032 --> 00:37:12,466
+hai inch, ba inch.
+
+696
+00:37:12,468 --> 00:37:16,403
+<i>Bảy người chúng tôi trên hai chiếc thuyền
+bị kéo đi gần một km</i>
+
+697
+00:37:16,405 --> 00:37:18,572
+<i>ngược chiều dòng nước.</i>
+
+698
+00:37:18,574 --> 00:37:20,240
+Được, nó đã lên mặt nước!
+Cá đã lên mặt nước!
+
+699
+00:37:20,242 --> 00:37:21,675
+Nó trồi lên ở kia kìa!
+
+700
+00:37:34,303 --> 00:37:38,405
+<i>Tôi đang ở gần Bangkok, Thái lan
+và đang đấu vật với</i>
+
+701
+00:37:38,407 --> 00:37:43,977
+<i>một trong những con cá nước ngọt
+lớn nhất thế giới.</i>
+
+702
+00:37:43,979 --> 00:37:45,345
+[ Nói tiếng Thái ]
+
+703
+00:37:49,718 --> 00:37:50,751
+Nó đã lên gần tới mặt nước.
+
+704
+00:37:50,753 --> 00:37:52,886
+Tôi đã thấy cục chì câu.
+
+705
+00:37:52,888 --> 00:37:54,488
+Đã tới mặt nước, tôi nghĩ mình đã bắt được nó.
+
+706
+00:37:54,490 --> 00:37:56,156
+Chúng ta đã bắt được nó.
+
+707
+00:37:59,562 --> 00:38:01,295
+<i>Bắt vào trong lưới,</i>
+
+708
+00:38:01,297 --> 00:38:03,697
+<i>trông nó rất lớn</i>
+
+709
+00:38:03,699 --> 00:38:08,869
+<i>một con quái vật với chiếc gai độc dài 2,5 tấc.</i>
+
+710
+00:38:08,871 --> 00:38:11,071
+Hướng về đội nghiên cứu,
+Tiến sĩ Ning...
+
+711
+00:38:11,073 --> 00:38:14,808
+<i>- [ Nói tiếng Thái ]
+-...Cẩn thận chiếc đuôi.</i>
+
+712
+00:38:14,810 --> 00:38:17,711
+[ Nói tiếng Thái ]
+
+713
+00:38:21,050 --> 00:38:24,952
+OK, 180cm từ mũi tới đuôi.
+
+714
+00:38:24,954 --> 00:38:26,687
+OK.
+
+715
+00:38:31,427 --> 00:38:33,794
+gần 2m đường kính ngang — 191cm.
+
+716
+00:38:33,796 --> 00:38:37,397
+<i>Với 1,8m đường kính ngang
+và nặng 180kg,</i>
+
+717
+00:38:37,399 --> 00:38:40,434
+<i>con cá đuối cái này đến giờ</i>
+
+718
+00:38:40,436 --> 00:38:44,037
+<i>vẫn là con cá đuối sông lớn nhất
+mà tôi từng gặp.</i>
+
+719
+00:38:44,039 --> 00:38:46,406
+<i>Và tôi cũng lờ mờ nhận ra</i>
+
+720
+00:38:46,408 --> 00:38:51,612
+<i>rằng nó đang làm mẹ 
+trước sự ngạc nhiên của mọi người.</i>
+
+721
+00:38:51,614 --> 00:38:53,880
+Và theo đúng nghĩa đen khi chúng tôi
+đưa nó vào lưới,
+
+722
+00:38:53,882 --> 00:38:57,351
+nó đã sinh ra hai con con.
+
+723
+00:38:57,353 --> 00:39:00,487
+<i>Hai cái đĩa đen này</i>
+
+724
+00:39:00,489 --> 00:39:04,524
+<i>là những con con mới sinh.</i>
+
+725
+00:39:04,526 --> 00:39:06,460
+<i>Tiến sĩ Ning dùng siêu âm để xem</i>
+
+726
+00:39:06,462 --> 00:39:09,229
+<i>còn con cá đuối con nào trong bụng không.</i>
+
+727
+00:39:09,231 --> 00:39:11,665
+<i>Đây là lần đầu tiên các nhà khoa học
+có khả năng</i>
+
+728
+00:39:11,667 --> 00:39:14,434
+<i>để thu thập dữ liệu về con con đủ ngày</i>
+
+729
+00:39:14,436 --> 00:39:15,836
+<i>của loài cá đuối.</i>
+
+730
+00:39:15,838 --> 00:39:17,170
+Trên hình ảnh siêu âm có một lằn sẩm màu,
+
+731
+00:39:17,172 --> 00:39:18,605
+đây là một cái khoang
+
+732
+00:39:18,607 --> 00:39:20,974
+còn lằn sáng bên trong rõ ràng là
+
+733
+00:39:20,976 --> 00:39:24,511
+con cá đuối con bên trong.
+
+734
+00:39:24,513 --> 00:39:26,113
+<i>Tái hợp với con mình,</i>
+
+735
+00:39:26,115 --> 00:39:28,982
+<i>cá đuối mẹ giờ đã được thả ra.</i>
+
+736
+00:39:28,984 --> 00:39:31,318
+<i>Và trở về</i>
+
+737
+00:39:31,320 --> 00:39:34,121
+<i>thế giới sâu thẳm của mình.</i>
+
+738
+00:39:34,123 --> 00:39:36,356
+Về mặt cá nhân, tôi cảm thấy mình là người
+được thấy được sinh vật ngoài trái đất.
+
+739
+00:39:36,358 --> 00:39:39,960
+Ý tôi là, thật hoàn toàn ngạc nhiên
+khi nó là cá mà không giống cá.
+
+740
+00:39:39,962 --> 00:39:42,963
+Đúng thật sự là một con quái vật.
+
+741
+00:39:46,235 --> 00:39:48,735
+Trong khi đang sinh sản,
+một con cá đuối khổng lồ
+
+742
+00:39:48,737 --> 00:39:51,571
+đã bị bắt bởi đội nghiên cứu 
+trên sông Mea Klong.
+
+743
+00:39:51,573 --> 00:39:54,808
+Và có vẻ nơi đây là nhà trẻ
+
+744
+00:39:54,810 --> 00:39:57,711
+cho loài thủy quái này.
+
+745
+00:39:57,713 --> 00:40:00,347
+Câu cá một mình trong một
+môi trường khắc nghiệt
+
+746
+00:40:00,349 --> 00:40:02,149
+Thật sự là một thử thách.
+
+747
+00:40:02,151 --> 00:40:05,085
+Nhưng làm việc bên cạnh một đội ngũ
+các nhà khoa học
+
+748
+00:40:05,087 --> 00:40:07,821
+lại là một việc thử thách hơn.
+
+749
+00:40:07,823 --> 00:40:09,756
+Tuy nhiên phần thưởng,
+
+750
+00:40:09,758 --> 00:40:11,058
+là rất đáng giá
+
+751
+00:40:11,060 --> 00:40:15,429
+hơn cả chiến tích câu cá.
+
+752
+00:40:15,431 --> 00:40:17,597
+Và dù công việc mang lại cho tôi kiến thức
+
+753
+00:40:17,599 --> 00:40:21,968
+bằng những công nghệ hiện đại 
+cuối thế kỷ 21,
+
+754
+00:40:21,970 --> 00:40:24,338
+Không có thứ nào trong số này,
+không phương các nào
+
+755
+00:40:24,340 --> 00:40:27,574
+mà không cần đến mẫu thử để khảo sát.
+
+756
+00:40:27,576 --> 00:40:30,877
+Và một phần của bài toán 
+phải giải quyết bằng đường câu,
+
+757
+00:40:30,879 --> 00:40:32,779
+sự khéo léo, sự kiên nhẫn,
+
+758
+00:40:32,781 --> 00:40:36,683
+và thỉnh thoảng cả máu, mồ hôi, nước mắt,
+
+759
+00:40:36,685 --> 00:40:41,388
+cũng không đánh đổi được cho 10.000 năm.
+
