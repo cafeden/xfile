@@ -63,7 +63,7 @@ Không đùa chứ?
 
 16
 00:01:48,775 --> 00:01:49,441
-Bay...
+Bay ...
 
 17
 00:01:49,609 --> 00:01:50,526
@@ -100,7 +100,7 @@ Rồi sau đó nó phi...
 
 24
 00:02:56,134 --> 00:02:57,009
-cả con mô tô địa hình...
+cả chiếc mô tô địa hình...
 
 25
 00:02:57,177 --> 00:03:00,345
@@ -244,7 +244,7 @@ tới tâm sinh lý thanh niên.
 
 55
 00:04:58,798 --> 00:05:00,674
-Thế tôi ở vai nào trong câu hỏi đó?
+Thế tôi ở vai nào trong câu nói đó?
 
 56
 00:05:02,635 --> 00:05:06,638
@@ -264,7 +264,7 @@ Việc gì thế này?
 
 60
 00:05:16,983 --> 00:05:18,275
-Chả gì cả.
+Không gì cả.
 
 61
 00:05:18,943 --> 00:05:21,361
@@ -445,7 +445,7 @@ Steven's son. Stevenson.
 
 101
 00:07:06,884 --> 00:07:09,261
-Phải, nhưng ông ấy sinh trước 1883 khá nhiều.
+Phải, nhưng ông ấy sinh trước 1883 khá lâu.
 Hẳn phải là một người khác.
 
 102
@@ -872,11 +872,11 @@ với cái này đâu.
 
 197
 00:12:13,357 --> 00:12:14,649
-Tôi sẽ đi Palau á?
+Tôi sẽ đi Palau à?
 
 198
 00:12:14,817 --> 00:12:15,650
-Hê hê. Gần chuẩn.
+Hê hê. Chính xác.
 
 199
 00:12:15,818 --> 00:12:17,110
@@ -898,7 +898,7 @@ nên cứ để con xử lý.
 
 203
 00:12:28,122 --> 00:12:30,874
-Bình tĩnh anh bạn.
+Bình tĩnh đi anh bạn.
 Hãy nhớ ai là người tài trợ chuyến đi này.
 
 204
@@ -918,12 +918,12 @@ Xem kìa.
 
 207
 00:12:38,299 --> 00:12:39,966
-Đô con mà sợ con thằn lằn nhỏ hả?
+Đô con mà sợ con thằn lằn nhỏ xíu!
 
 208
 00:12:40,134 --> 00:12:43,553
 Đô con sợ gì. Dượng yêu lũ thằn lằn
-khi nó hóa thành giày và thắt lưng.
+khi nó bị biến thành giày và thắt lưng.
 
 209
 00:12:43,888 --> 00:12:45,472
@@ -944,7 +944,7 @@ Chúng tôi là người Mỹ.
 
 213
 00:12:52,772 --> 00:12:54,314
-Ừm, ông...
+Ừhm, ông...
 
 214
 00:12:54,482 --> 00:12:55,148
@@ -1068,7 +1068,7 @@ Cám ơn dượng.
 
 241
 00:14:06,345 --> 00:14:08,137
-Cái quái gì mà nản vậy trời?
+Cái quái gì sao mà nản vậy trời?
 
 242
 00:14:08,305 --> 00:14:10,849
@@ -1077,7 +1077,7 @@ Nó là chiếc trực thăng ngon nhất
 
 243
 00:14:11,100 --> 00:14:11,766
-Không dám nghĩ đến cái rởm nhất luôn.
+Không dám nghĩ đến cái dởm nhất luôn.
 
 244
 00:14:13,185 --> 00:14:14,269
@@ -1103,16 +1103,16 @@ Các anh phải gặp con gái tôi.
 
 249
 00:14:23,279 --> 00:14:24,404
-Con bé xinh đừng hỏi.
+Con bé xinh miễn bàn.
 
 250
 00:14:24,572 --> 00:14:26,656
-Trông y như tôi vậy.
+Giống y như tôi vậy.
 
 251
 00:14:42,464 --> 00:14:44,048
-Không chơi nổi quả trực thăng này đâu.
-Đi thôi.
+Không chơi nổi cái trực thăng cũ xèm này đâu.
+Đi thôi cu.
 
 252
 00:14:44,216 --> 00:14:46,050
@@ -1125,12 +1125,12 @@ chiếc máy bay này...
 
 254
 00:14:48,929 --> 00:14:50,430
-quả thực đẹp lộng lẫy.
+quả thực đẹp lộng lẫy!
 
 255
 00:14:51,432 --> 00:14:53,057
 Đây là cô con gái
-giống ông đấy hả?
+giống ông đó hả?
 
 256
 00:14:53,225 --> 00:14:55,602
@@ -1139,7 +1139,7 @@ Nhìn coi, lỗ mũi y hệt.
 257
 00:14:56,312 --> 00:14:58,062
 - Họ là ai vậy?
-- Ừm...
+- Ừhm...
 
 258
 00:14:58,230 --> 00:15:01,649
@@ -1213,7 +1213,7 @@ Thanh toán bằng Visa được chứ?
 273
 00:15:44,610 --> 00:15:48,696
 Xin chào quý khách. Chào mừng đến với
-Hãng lữ hành hạng sang Gabato.
+Hãng lữ hành hạng sang Gabato!
 
 274
 00:15:48,864 --> 00:15:52,116
@@ -1231,7 +1231,7 @@ Tôi, phi công của các bạn và...
 
 277
 00:15:58,415 --> 00:15:59,582
-Ta bay nào.
+Ta đang bay.
 
 278
 00:16:01,752 --> 00:16:03,127
@@ -1257,7 +1257,7 @@ Và bên phía phải, quý khách sẽ thấy...
 283
 00:16:21,271 --> 00:16:24,857
 - ... một mặt khác của Thái Bình Dương.
-- Ông định như thế suốt chuyến đi à?
+- Ông cứ nói như thế suốt chuyến đi à?
 
 284
 00:16:26,068 --> 00:16:28,861
@@ -1280,7 +1280,7 @@ tráng lệ.
 
 288
 00:16:48,257 --> 00:16:49,132
-"Tráng lệ" à?
+"Tráng lệ" sao?
 
 289
 00:16:50,592 --> 00:16:51,467
@@ -1366,13 +1366,13 @@ Gabato, bay ra khỏi đây ngay!
 
 308
 00:18:10,881 --> 00:18:13,508
-Chuẩn đó, tôi đồng ý với anh.
+Đúng đó, tôi đồng ý với anh.
 Nhưng vấn đề là thế này:
 
 309
 00:18:13,675 --> 00:18:15,968
 Tôi không thể điều khiển
-chiếc trực thăng được nữa.
+chiếc trực thăng quỷ quái được nữa.
 
 310
 00:18:16,136 --> 00:18:16,886
@@ -1384,11 +1384,11 @@ Bộ điều khiển...
 
 312
 00:18:18,806 --> 00:18:19,472
-Cái gì?
+Cái gì, đùa sao?
 
 313
 00:18:27,314 --> 00:18:28,606
-Chúng ta đang rơi xuống!
+Chúng ta đang rơi!
 
 314
 00:18:28,774 --> 00:18:30,024
@@ -1404,7 +1404,7 @@ Không! Đừng vậy chứ!
 
 317
 00:18:59,138 --> 00:19:00,805
-Bám chặt vào!
+Bám chặt đi anh em!
 
 318
 00:19:11,108 --> 00:19:12,233
@@ -1493,7 +1493,7 @@ Nó cử động rồi!
 
 339
 00:20:07,748 --> 00:20:12,668
-Vậy là... hàng họ vẫn đủ cả.
+Vậy là... vẫn đủ cả.
 
 340
 00:20:12,836 --> 00:20:15,087
@@ -1574,7 +1574,7 @@ nó làm ta nhỏ lại!
 
 357
 00:22:55,624 --> 00:22:57,833
-Hay biến ta thành khổng lồ nhể?
+Hay biến ta thành khổng lồ?
 
 358
 00:23:01,338 --> 00:23:04,298
