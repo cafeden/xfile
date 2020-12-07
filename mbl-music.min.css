@@ -1,0 +1,243 @@
+.mbl .ui-slider {
+position:absolute;
+cursor:pointer;
+height:8px;
+background:rgba(36,36,36,0.6);
+border:1px solid rgba(0,0,0,0.6);
+border-radius:5px;
+}
+
+.mbl .ui-slider-handle {
+width:14px;
+height:14px;
+position:absolute;
+top:-3px;
+margin-left:-7px;
+z-index:200;
+background:url(http://1.bp.blogspot.com/-4esYzL3RylI/UcCXA5aXIgI/AAAAAAAABn0/xJ6ye3mSuA4/s1600/mnpl_tlb_btns.png) -84px bottom no-repeat;
+outline:none;
+}
+
+.mbl .ui-widget-header {
+background:url(http://1.bp.blogspot.com/-4esYzL3RylI/UcCXA5aXIgI/AAAAAAAABn0/xJ6ye3mSuA4/s1600/mnpl_tlb_btns.png) repeat-x 0 0;
+height:8px;
+left:0;
+top:0;
+position:absolute;
+border-radius:5px 0 0 5px;
+}
+
+.mbl_player {
+font-size:15px!important;
+font-family:'Open Sans', Helvetica, Arial, sans-serif;
+color:#fff;
+position:relative;
+width:309px;
+box-shadow:0 0 20px 0 rgba(0,0,0,0.5);
+height:328px;
+border:1px solid #000;
+border-radius:3px;
+background:url(http://1.bp.blogspot.com/-qJZDxhaB8Sc/UcCXTbGWwrI/AAAAAAAABn8/5sKGbTZoVXA/s1600/playlist_bg.png) 0 0 repeat;
+margin:20px;
+}
+
+.mbl_player .mnpl_toolbar {
+position:absolute;
+width:auto;
+height:30px;
+left:0;
+right:0;
+bottom:150px;
+border-top:1px solid #000;
+background-color:#222;
+}
+
+.mbl_player .mnpl_toolbar .mnpl_tlb_prev {
+position:absolute;
+width:28px;
+height:30px;
+left:0;
+top:0;
+background:url(http://1.bp.blogspot.com/-4esYzL3RylI/UcCXA5aXIgI/AAAAAAAABn0/xJ6ye3mSuA4/s1600/mnpl_tlb_btns.png) 0 0 no-repeat;
+cursor:pointer;
+}
+
+.mbl_player .mnpl_toolbar .mnpl_tlb_stop {
+position:absolute;
+width:28px;
+height:30px;
+left:28px;
+top:0;
+background:url(http://1.bp.blogspot.com/-4esYzL3RylI/UcCXA5aXIgI/AAAAAAAABn0/xJ6ye3mSuA4/s1600/mnpl_tlb_btns.png) -116px 0 no-repeat;
+cursor:pointer;
+}
+
+.mbl_player .mnpl_toolbar .mnpl_tlb_stop.isplay {
+background-position:-28px 0;
+}
+
+.mbl_player .mnpl_toolbar .mnpl_tlb_next {
+position:absolute;
+width:28px;
+height:30px;
+left:56px;
+top:0;
+background:url(http://1.bp.blogspot.com/-4esYzL3RylI/UcCXA5aXIgI/AAAAAAAABn0/xJ6ye3mSuA4/s1600/mnpl_tlb_btns.png) -56px 0 no-repeat;
+cursor:pointer;
+border-right:1px solid #000;
+}
+
+.mbl_player .mnpl_long {
+position:absolute;
+left:122px;
+top:10px;
+width:148px;
+}
+
+.mbl_player .mnpl_current {
+position:absolute;
+left:85px;
+top:0;
+bottom:0;
+border-left:1px solid #2d2d2d;
+font-size:9px;
+padding:10px 0 0 9px;
+}
+
+.mbl_player .mnpl_all {
+position:absolute;
+left:282px;
+top:0;
+bottom:0;
+font-size:9px;
+padding:10px 0 0;
+}
+
+.mbl_player .mbl_art_bg {
+position:absolute;
+width:auto;
+height:auto;
+opacity:0.3;
+left:0;
+right:0;
+bottom:31px;
+top:0;
+background-repeat:no-repeat;
+background-position:center top;
+background-size:100% auto;
+}
+
+.mbl_player .mbl_cover {
+position:absolute;
+width:126px;
+height:126px;
+left:10px;
+top:10px;
+border-top:1px solid #141414;
+border-bottom:1px solid #000;
+border-left:1px solid #151515;
+border-right:1px solid #000;
+border-radius:5px;
+}
+
+.mbl_player .mnpl_title {
+position:absolute;
+left:149px;
+top:21px;
+font-weight:700;
+font-size:14px;
+}
+
+.mbl_player .mnpl_author {
+position:absolute;
+left:149px;
+top:42px;
+font-weight:700;
+font-size:11px;
+color:#999;
+}
+
+.mbl_player li {
+float:left;
+width:10px;
+height:10px;
+padding-right:4px;
+background:url(http://1.bp.blogspot.com/-4esYzL3RylI/UcCXA5aXIgI/AAAAAAAABn0/xJ6ye3mSuA4/s1600/mnpl_tlb_btns.png) -84px 0 no-repeat;
+opacity:0.2;
+}
+
+.mbl_player .mnpl_volume {
+position:absolute;
+left:168px;
+top:118px;
+width:102px;
+}
+
+.mbl_player .mnpl_volume_min {
+position:absolute;
+left:147px;
+top:117px;
+width:12px;
+height:11px;
+background:url(http://1.bp.blogspot.com/-4esYzL3RylI/UcCXA5aXIgI/AAAAAAAABn0/xJ6ye3mSuA4/s1600/mnpl_tlb_btns.png) -98px bottom no-repeat;
+}
+
+.mbl_player .mbl_volume_max {
+position:absolute;
+left:280px;
+top:115px;
+width:18px;
+height:15px;
+background:url(http://1.bp.blogspot.com/-4esYzL3RylI/UcCXA5aXIgI/AAAAAAAABn0/xJ6ye3mSuA4/s1600/mnpl_tlb_btns.png) -98px 0 no-repeat;
+}
+
+.mbl_playlist {
+background:url(http://1.bp.blogspot.com/-qJZDxhaB8Sc/UcCXTbGWwrI/AAAAAAAABn8/5sKGbTZoVXA/s1600/playlist_bg.png) 0 0 repeat;
+overflow-y:auto;
+position:absolute;
+width:auto;
+height:149px;
+border-top:1px solid #000;
+bottom:0;
+left:0;
+right:0;
+}
+
+.mbl_playlist span {
+display:block;
+border-bottom:1px solid #575555;
+cursor:pointer;
+font-size:80%;
+opacity:0.8;
+padding:5px 20px;
+}
+
+::-webkit-scrollbar {
+width:13px;
+height:13px;
+background-color:#222;
+}
+
+::-webkit-scrollbar-corner {
+background:0 0;
+}
+
+::-webkit-scrollbar-thumb {
+border-radius:5px;
+border:3px solid transparent;
+border-image:initial;
+box-shadow:rgba(255,255,255,0.2) 0 0 0 4px inset;
+}
+
+::-webkit-scrollbar-thumb,::-webkit-scrollbar-thumb:hover {
+min-height:20px;
+background-clip:content-box;
+}
+
+::-webkit-scrollbar-thumb:hover {
+box-shadow:rgba(255,255,255,0.3) 0 0 0 4px inset;
+}
+
+.mbl_player li.active,.mbl_playlist span:hover {
+opacity:1;
+}
